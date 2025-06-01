@@ -1,0 +1,79 @@
+# MachinaForge GitHub Integration Configuration Template
+
+# Environment-specific configurations
+development:
+  # Repository settings
+  repository: "username/repository"  # GitHub repository in format "username/repo"
+  branch: "development"             # Branch to sync with
+  repository_path: "~/projects/machinaforge"  # Local repository path
+
+  # Sync settings
+  sync_interval: 300  # Sync interval in seconds
+  push_retries: 3    # Number of retries for failed pushes
+  auto_commit: true  # Automatically commit changes
+
+  # File monitoring
+  watch_patterns:    # Patterns to watch for changes
+    - "*.py"
+    - "*.md"
+    - "*.yml"
+  ignore_patterns:   # Patterns to ignore
+    - "*.pyc"
+    - "__pycache__"
+    - ".git"
+    - "venv"
+    - "*.log"
+
+  # Logging configuration
+  log_level: "DEBUG"
+  log_path: "logs/development"
+
+staging:
+  repository: "username/repository"
+  branch: "staging"
+  repository_path: "/opt/machinaforge"
+  sync_interval: 600
+  push_retries: 5
+  auto_commit: true
+  log_level: "INFO"
+  log_path: "logs/staging"
+
+production:
+  repository: "username/repository"
+  branch: "main"
+  repository_path: "/opt/machinaforge"
+  sync_interval: 1800
+  push_retries: 5
+  auto_commit: false
+  log_level: "WARNING"
+  log_path: "logs/production"
+
+# Security settings
+security:
+  encrypt_credentials: true
+  token_storage: "keyring"  # Options: keyring, file
+  require_signed_commits: true
+
+# Documentation settings
+documentation:
+  update_readme: true
+  update_api_docs: true
+  preserve_manual_sections: true
+  changelog_updates: true
+  templates_path: "templates"
+
+# Notification settings
+notifications:
+  enable_email: false
+  enable_slack: false
+  error_notification_threshold: "ERROR"
+  success_notification_threshold: "INFO"
+
+# Advanced settings
+advanced:
+  max_file_size: 10485760  # 10MB in bytes
+  concurrent_operations: 3
+  timeout: 30  # Operation timeout in seconds
+  diff_algorithm: "minimal"  # Options: minimal, patience, histogram
+  merge_strategy: "recursive"
+
