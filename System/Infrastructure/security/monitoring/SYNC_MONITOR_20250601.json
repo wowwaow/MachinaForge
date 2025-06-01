@@ -1,0 +1,155 @@
+{
+  "monitor_config": {
+    "id": "SYNC_MONITOR_20250601",
+    "incident_ref": "INCIDENT-20250601-001",
+    "created": "2025-06-01T20:35:35Z",
+    "status": "ACTIVE",
+    "priority": "CRITICAL",
+    
+    "detection_rules": {
+      "sync_attempts": {
+        "patterns": [
+          "hetzner_server_sync",
+          "server_migration",
+          "data_sync",
+          "config_push"
+        ],
+        "monitored_actions": [
+          "ssh_connection",
+          "api_call",
+          "file_transfer",
+          "configuration_update"
+        ],
+        "blocked_commands": [
+          "rsync",
+          "scp",
+          "sftp",
+          "git push"
+        ]
+      },
+      "authentication": {
+        "track_attempts": true,
+        "track_failures": true,
+        "track_successes": true,
+        "credential_usage": true
+      }
+    },
+
+    "alert_config": {
+      "severity_levels": {
+        "sync_attempt": "CRITICAL",
+        "auth_failure": "HIGH",
+        "block_bypass": "CRITICAL",
+        "suspicious_activity": "HIGH"
+      },
+      "notification_channels": [
+        "security_team",
+        "incident_response",
+        "system_administrators",
+        "audit_log"
+      ],
+      "response_times": {
+        "critical": "immediate",
+        "high": "5 minutes",
+        "medium": "15 minutes"
+      }
+    },
+
+    "logging": {
+      "log_level": "DEBUG",
+      "retention": "90 days",
+      "required_fields": [
+        "timestamp",
+        "action",
+        "user",
+        "source_ip",
+        "target_system",
+        "status"
+      ],
+      "log_locations": [
+        "/var/log/machina/security/",
+        "/var/log/machina/audit/",
+        "/var/log/machina/incidents/"
+      ]
+    },
+
+    "notification_paths": {
+      "primary": {
+        "channel": "security_team_urgent",
+        "method": "immediate_alert",
+        "escalation_time": "5 minutes"
+      },
+      "secondary": {
+        "channel": "incident_response",
+        "method": "incident_update",
+        "escalation_time": "15 minutes"
+      },
+      "audit": {
+        "channel": "security_audit",
+        "method": "log_entry",
+        "retention": "1 year"
+      }
+    },
+
+    "block_enforcement": {
+      "active_blocks": [
+        {
+          "operation": "hetzner_server_sync",
+          "block_id": "SYNC_BLOCK_20250601",
+          "start_time": "2025-06-01T20:33:06Z",
+          "clearance_required": true,
+          "override_protocol": {
+            "required_approvals": [
+              "security_team_lead",
+              "infrastructure_lead"
+            ],
+            "documentation_required": true,
+            "audit_logging": true
+          }
+        }
+      ],
+      "block_checks": {
+        "frequency": "continuous",
+        "validation_points": [
+          "command_execution",
+          "network_access",
+          "file_system",
+          "api_endpoints"
+        ],
+        "response_actions": {
+          "attempt_detected": [
+            "log_incident",
+            "notify_security",
+            "terminate_process",
+            "block_source"
+          ]
+        }
+      }
+    },
+
+    "incident_tracking": {
+      "incident_id": "INCIDENT-20250601-001",
+      "block_reference": "/System/Infrastructure/security/blocks/SYNC_BLOCK_20250601.md",
+      "documentation": {
+        "incident_report": "/System/Infrastructure/security/incidents/INCIDENT-20250601-001.md",
+        "recovery_plan": "/System/Infrastructure/security/recovery/SYNC_REQUIREMENTS_20250601.md"
+      },
+      "status_updates": {
+        "frequency": "5 minutes",
+        "channels": [
+          "security_dashboard",
+          "incident_log",
+          "audit_trail"
+        ]
+      }
+    }
+  },
+  
+  "meta": {
+    "version": "1.0",
+    "last_updated": "2025-06-01T20:35:35Z",
+    "review_required": true,
+    "security_classification": "restricted"
+  }
+}
+
