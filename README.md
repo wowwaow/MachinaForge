@@ -1,4 +1,5 @@
 # 🤖 MachinaForge Core System
+LLM Multi-Agent Development Suite
 
 ## Mission Statement
 MachinaForge is a sophisticated multi-agent orchestration framework designed for coordinating AI operations with intelligent task detection and automatic objective promotion.
