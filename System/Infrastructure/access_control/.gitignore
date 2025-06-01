@@ -1,0 +1,26 @@
+# Access control system logs
+logs/
+*.log
+*.log.*
+
+# Temporary files
+*.tmp
+.temp/
+
+# Access tokens and credentials
+*.key
+*.token
+.secrets/
+
+# Runtime files
+*.pid
+*.sock
+
+# Debug files
+debug/
+*.debug
+
+# Local configuration overrides
+*.local.json
+local_config/
+

@@ -1,0 +1,50 @@
+{
+  "version": "1.0",
+  "last_updated": "2025-06-01T20:20:00Z",
+  "log_settings": {
+    "log_directory": "/var/log/machina/access_logs",
+    "file_pattern": "access_%Y%m%d.log",
+    "rotation": {
+      "interval": "daily",
+      "max_files": 30,
+      "compression": true
+    }
+  },
+  "event_tracking": {
+    "track_events": [
+      "file_access",
+      "permission_change",
+      "authentication",
+      "unauthorized_attempt"
+    ],
+    "log_format": {
+      "timestamp": "ISO8601",
+      "required_fields": [
+        "event_type",
+        "user_id",
+        "resource",
+        "action",
+        "status",
+        "ip_address"
+      ]
+    }
+  },
+  "monitoring": {
+    "alert_thresholds": {
+      "failed_attempts": 3,
+      "suspicious_ips": 2,
+      "concurrent_access": 5
+    },
+    "alert_channels": [
+      "security_team",
+      "admin_dashboard",
+      "log_aggregator"
+    ]
+  },
+  "retention": {
+    "access_logs": "90 days",
+    "audit_trails": "1 year",
+    "security_events": "2 years"
+  }
+}
+

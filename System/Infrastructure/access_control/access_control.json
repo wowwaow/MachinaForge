@@ -1,0 +1,36 @@
+{
+  "version": "1.0",
+  "last_updated": "2025-06-01T20:20:00Z",
+  "protected_resources": {
+    "hetzner_docs": {
+      "path": "/System/Infrastructure/HETZNER_SERVER.md",
+      "required_role": ["admin", "infra_manager", "security_auditor"]
+    }
+  },
+  "roles": {
+    "admin": {
+      "permissions": ["read", "write", "delete", "manage"],
+      "access_level": "full"
+    },
+    "infra_manager": {
+      "permissions": ["read", "write"],
+      "access_level": "high"
+    },
+    "security_auditor": {
+      "permissions": ["read", "audit"],
+      "access_level": "medium"
+    },
+    "agent": {
+      "permissions": ["read"],
+      "access_level": "low"
+    }
+  },
+  "access_rules": {
+    "require_2fa": true,
+    "require_vpn": true,
+    "max_failed_attempts": 3,
+    "lockout_duration_minutes": 30,
+    "token_rotation_hours": 24
+  }
+}
+
