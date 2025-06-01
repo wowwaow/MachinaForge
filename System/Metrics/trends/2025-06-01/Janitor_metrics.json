@@ -1,0 +1,32 @@
+{
+    "timestamp": "2025-06-01T19:00:01Z",
+    "agent": "Janitor",
+    "metrics": {
+        "processing": {
+            "processed_count": 1021,
+            "failed_count": 0,
+            "success_rate": 100.00
+        },
+        "system": {
+            "cpu_usage": 8.8,
+            "memory_usage": 23,
+            "disk_usage": 5
+        }
+    }
+}
+{
+    "timestamp": "2025-06-01T19:00:01Z",
+    "agent": "Janitor",
+    "metrics": {
+        "processing": {
+            "processed_count": 1021,
+            "failed_count": 0,
+            "success_rate": 100.0000
+        },
+        "system": {
+            "cpu_usage": 8.2,
+            "memory_usage": 23,
+            "disk_usage": 5
+        }
+    }
+}

@@ -1,0 +1,10 @@
+[2025-06-01T16:56:17Z] Starting all agents...
+[2025-06-01T16:56:17Z] Started analyst (PID: 446009)
+[2025-06-01T16:56:17Z] Started documenter (PID: 446010)
+[2025-06-01T16:56:17Z] Started janitor (PID: 446011)
+[2025-06-01T16:56:17Z] All agents started
+[2025-06-01T18:10:24Z] Stopping all agents...
+[2025-06-01T18:10:24Z] Stopped analyst (PID: 446009)
+[2025-06-01T18:10:24Z] Stopped documenter (PID: 446010)
+[2025-06-01T18:10:24Z] Stopped janitor (PID: 446011)
+[2025-06-01T18:10:24Z] All agents stopped

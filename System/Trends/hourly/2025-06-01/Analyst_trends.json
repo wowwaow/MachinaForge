@@ -1,0 +1,16 @@
+{
+  "agent": "Analyst",
+  "period": "hourly",
+  "date": "2025-06-01",
+  "samples": [
+    {
+      "timestamp": "2025-06-01T17:20:03Z",
+      "metrics": {
+        "cpu_usage": 24.0,
+        "memory_usage": 28,
+        "processed_count": 1021,
+        "failed_count": 0
+      }
+    }
+  ]
+}

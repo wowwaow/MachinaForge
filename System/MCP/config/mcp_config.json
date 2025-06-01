@@ -1,0 +1,43 @@
+{
+    "server": {
+        "version": "1.0.0",
+        "port": 8080,
+        "host": "localhost",
+        "update_interval": 60
+    },
+    "security": {
+        "api_key_required": true,
+        "api_key_file": "/home/host/Documents/Machina/MF_Main/System/MCP/config/api_key"
+    },
+    "endpoints": {
+        "/status": {
+            "method": "GET",
+            "cache_ttl": 60,
+            "requires_auth": true
+        },
+        "/metrics": {
+            "method": "GET",
+            "cache_ttl": 300,
+            "requires_auth": true
+        },
+        "/trends": {
+            "method": "GET",
+            "cache_ttl": 600,
+            "requires_auth": true
+        }
+    },
+    "agents": {
+        "Analyst": {
+            "metrics_path": "/home/host/Documents/Machina/MF_Main/System/Metrics/trends",
+            "trends_path": "/home/host/Documents/Machina/MF_Main/System/Trends/hourly"
+        },
+        "Documenter": {
+            "metrics_path": "/home/host/Documents/Machina/MF_Main/System/Metrics/trends",
+            "trends_path": "/home/host/Documents/Machina/MF_Main/System/Trends/hourly"
+        },
+        "Janitor": {
+            "metrics_path": "/home/host/Documents/Machina/MF_Main/System/Metrics/trends",
+            "trends_path": "/home/host/Documents/Machina/MF_Main/System/Trends/hourly"
+        }
+    }
+}

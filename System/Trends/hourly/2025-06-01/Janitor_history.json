@@ -1,0 +1,19 @@
+{
+  "agent": "Janitor",
+  "samples": [
+    {
+      "timestamp": "2025-06-01T17:22:03Z",
+      "metrics": {
+        "system": {
+          "cpu_usage": 34.4,
+          "memory_usage": 27,
+          "disk_usage": 5
+        },
+        "processing": {
+          "processed_count": 1021,
+          "failed_count": 0
+        }
+      }
+    }
+  ]
+}

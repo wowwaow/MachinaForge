@@ -1,0 +1,12 @@
+{
+    "timestamp": "2025-06-01T18:59:48Z",
+    "agents": {
+        "total": 3,
+        "active": 0,
+        "healthy": 3
+    },
+    "processing": {
+        "total_files": 1021,
+        "failed_files": 0
+    }
+}

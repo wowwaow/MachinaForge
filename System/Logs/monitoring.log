@@ -1,0 +1,682 @@
+=== Agent Monitoring Report: 2025-06-01T17:00:01Z ===
+
+=== Analyst Status ===
+Analyst agent is healthy
+=== Analyst Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Documenter Status ===
+Documenter agent is healthy
+=== Documenter Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Janitor Status ===
+Janitor agent is healthy
+=== Janitor Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+=== System Metrics ===
+CPU Usage: 1.2%
+Memory Usage: 26%
+Disk Usage: 4%
+
+Monitoring complete. Check /home/host/Documents/Machina/MF_Main/System/Logs/alerts.log for detailed alerts.
+=== Agent Monitoring Report: 2025-06-01T17:05:01Z ===
+
+=== Analyst Status ===
+WARNING: Analyst agent hasn't reported in 254 seconds
+ERROR: Analyst agent may be unresponsive
+
+=== Documenter Status ===
+WARNING: Documenter agent hasn't reported in 254 seconds
+ERROR: Documenter agent may be unresponsive
+
+=== Janitor Status ===
+WARNING: Janitor agent hasn't reported in 254 seconds
+ERROR: Janitor agent may be unresponsive
+=== System Metrics ===
+CPU Usage: 1.8%
+Memory Usage: 27%
+Disk Usage: 4%
+
+Monitoring complete. Check /home/host/Documents/Machina/MF_Main/System/Logs/alerts.log for detailed alerts.
+=== Agent Monitoring Report: 2025-06-01T17:10:01Z ===
+
+=== Analyst Status ===
+WARNING: Analyst agent hasn't reported in 199 seconds
+ERROR: Analyst agent may be unresponsive
+
+=== Documenter Status ===
+WARNING: Documenter agent hasn't reported in 199 seconds
+ERROR: Documenter agent may be unresponsive
+
+=== Janitor Status ===
+WARNING: Janitor agent hasn't reported in 199 seconds
+ERROR: Janitor agent may be unresponsive
+=== System Metrics ===
+CPU Usage: 2.3%
+Memory Usage: 27%
+Disk Usage: 4%
+
+Monitoring complete. Check /home/host/Documents/Machina/MF_Main/System/Logs/alerts.log for detailed alerts.
+=== Agent Monitoring Report: 2025-06-01T17:15:01Z ===
+
+=== Analyst Status ===
+Analyst agent is healthy
+=== Analyst Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Documenter Status ===
+Documenter agent is healthy
+=== Documenter Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Janitor Status ===
+Janitor agent is healthy
+=== Janitor Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+=== System Metrics ===
+CPU Usage: 1.7%
+Memory Usage: 27%
+Disk Usage: 4%
+
+Monitoring complete. Check /home/host/Documents/Machina/MF_Main/System/Logs/alerts.log for detailed alerts.
+=== Agent Monitoring Report: 2025-06-01T17:20:01Z ===
+
+=== Analyst Status ===
+Analyst agent is healthy
+=== Analyst Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Documenter Status ===
+Documenter agent is healthy
+=== Documenter Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Janitor Status ===
+Janitor agent is healthy
+=== Janitor Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+=== System Metrics ===
+CPU Usage: 20.8%
+Memory Usage: 28%
+Disk Usage: 5%
+
+Monitoring complete. Check /home/host/Documents/Machina/MF_Main/System/Logs/alerts.log for detailed alerts.
+=== Agent Monitoring Report: 2025-06-01T17:25:01Z ===
+
+=== Analyst Status ===
+Analyst agent is healthy
+=== Analyst Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Documenter Status ===
+Documenter agent is healthy
+=== Documenter Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Janitor Status ===
+Janitor agent is healthy
+=== Janitor Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+=== System Metrics ===
+CPU Usage: 55.9%
+Memory Usage: 28%
+Disk Usage: 6%
+
+Monitoring complete. Check /home/host/Documents/Machina/MF_Main/System/Logs/alerts.log for detailed alerts.
+=== Agent Monitoring Report: 2025-06-01T17:30:01Z ===
+
+=== Analyst Status ===
+Analyst agent is healthy
+=== Analyst Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Documenter Status ===
+Documenter agent is healthy
+=== Documenter Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Janitor Status ===
+Janitor agent is healthy
+=== Janitor Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+=== System Metrics ===
+CPU Usage: 59.4%
+Memory Usage: 20%
+Disk Usage: 7%
+
+Monitoring complete. Check /home/host/Documents/Machina/MF_Main/System/Logs/alerts.log for detailed alerts.
+=== Agent Monitoring Report: 2025-06-01T17:35:01Z ===
+
+=== Analyst Status ===
+Analyst agent is healthy
+=== Analyst Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Documenter Status ===
+Documenter agent is healthy
+=== Documenter Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Janitor Status ===
+Janitor agent is healthy
+=== Janitor Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+=== System Metrics ===
+CPU Usage: 59.1%
+Memory Usage: 20%
+Disk Usage: 9%
+
+Monitoring complete. Check /home/host/Documents/Machina/MF_Main/System/Logs/alerts.log for detailed alerts.
+=== Agent Monitoring Report: 2025-06-01T17:40:01Z ===
+
+=== Analyst Status ===
+Analyst agent is healthy
+=== Analyst Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Documenter Status ===
+Documenter agent is healthy
+=== Documenter Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Janitor Status ===
+Janitor agent is healthy
+=== Janitor Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+=== System Metrics ===
+CPU Usage: 61.2%
+Memory Usage: 20%
+Disk Usage: 10%
+
+Monitoring complete. Check /home/host/Documents/Machina/MF_Main/System/Logs/alerts.log for detailed alerts.
+=== Agent Monitoring Report: 2025-06-01T17:45:01Z ===
+
+=== Analyst Status ===
+Analyst agent is healthy
+=== Analyst Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Documenter Status ===
+Documenter agent is healthy
+=== Documenter Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Janitor Status ===
+Janitor agent is healthy
+=== Janitor Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+=== System Metrics ===
+CPU Usage: 53.7%
+Memory Usage: 20%
+Disk Usage: 11%
+
+Monitoring complete. Check /home/host/Documents/Machina/MF_Main/System/Logs/alerts.log for detailed alerts.
+=== Agent Monitoring Report: 2025-06-01T17:50:01Z ===
+
+=== Analyst Status ===
+Analyst agent is healthy
+=== Analyst Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Documenter Status ===
+Documenter agent is healthy
+=== Documenter Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Janitor Status ===
+Janitor agent is healthy
+=== Janitor Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+=== System Metrics ===
+CPU Usage: 61.1%
+Memory Usage: 20%
+Disk Usage: 13%
+
+Monitoring complete. Check /home/host/Documents/Machina/MF_Main/System/Logs/alerts.log for detailed alerts.
+=== Agent Monitoring Report: 2025-06-01T17:55:01Z ===
+
+=== Analyst Status ===
+Analyst agent is healthy
+=== Analyst Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Documenter Status ===
+Documenter agent is healthy
+=== Documenter Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Janitor Status ===
+Janitor agent is healthy
+=== Janitor Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+=== System Metrics ===
+CPU Usage: 58.6%
+Memory Usage: 20%
+Disk Usage: 14%
+
+Monitoring complete. Check /home/host/Documents/Machina/MF_Main/System/Logs/alerts.log for detailed alerts.
+=== Agent Monitoring Report: 2025-06-01T18:00:01Z ===
+
+=== Analyst Status ===
+Analyst agent is healthy
+=== Analyst Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Documenter Status ===
+Documenter agent is healthy
+=== Documenter Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Janitor Status ===
+Janitor agent is healthy
+=== Janitor Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+=== System Metrics ===
+CPU Usage: 59.6%
+Memory Usage: 21%
+Disk Usage: 16%
+
+Monitoring complete. Check /home/host/Documents/Machina/MF_Main/System/Logs/alerts.log for detailed alerts.
+=== Agent Monitoring Report: 2025-06-01T18:05:01Z ===
+
+=== Analyst Status ===
+Analyst agent is healthy
+=== Analyst Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Documenter Status ===
+Documenter agent is healthy
+=== Documenter Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Janitor Status ===
+Janitor agent is healthy
+=== Janitor Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+=== System Metrics ===
+CPU Usage: 57.4%
+Memory Usage: 21%
+Disk Usage: 17%
+
+Monitoring complete. Check /home/host/Documents/Machina/MF_Main/System/Logs/alerts.log for detailed alerts.
+=== Agent Monitoring Report: 2025-06-01T18:10:02Z ===
+
+=== Analyst Status ===
+Analyst agent is healthy
+=== Analyst Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Documenter Status ===
+Documenter agent is healthy
+=== Documenter Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Janitor Status ===
+Janitor agent is healthy
+=== Janitor Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+=== System Metrics ===
+CPU Usage: 57.7%
+Memory Usage: 21%
+Disk Usage: 19%
+
+Monitoring complete. Check /home/host/Documents/Machina/MF_Main/System/Logs/alerts.log for detailed alerts.
+=== Agent Monitoring Report: 2025-06-01T18:15:01Z ===
+
+=== Analyst Status ===
+Analyst agent is healthy
+=== Analyst Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Documenter Status ===
+Documenter agent is healthy
+=== Documenter Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Janitor Status ===
+Janitor agent is healthy
+=== Janitor Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+=== System Metrics ===
+CPU Usage: 60.3%
+Memory Usage: 21%
+Disk Usage: 20%
+
+Monitoring complete. Check /home/host/Documents/Machina/MF_Main/System/Logs/alerts.log for detailed alerts.
+=== Agent Monitoring Report: 2025-06-01T18:20:01Z ===
+
+=== Analyst Status ===
+Analyst agent is healthy
+=== Analyst Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Documenter Status ===
+Documenter agent is healthy
+=== Documenter Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Janitor Status ===
+Janitor agent is healthy
+=== Janitor Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+=== System Metrics ===
+CPU Usage: 61.4%
+Memory Usage: 22%
+Disk Usage: 22%
+
+Monitoring complete. Check /home/host/Documents/Machina/MF_Main/System/Logs/alerts.log for detailed alerts.
+=== Agent Monitoring Report: 2025-06-01T18:25:01Z ===
+
+=== Analyst Status ===
+Analyst agent is healthy
+=== Analyst Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Documenter Status ===
+Documenter agent is healthy
+=== Documenter Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Janitor Status ===
+Janitor agent is healthy
+=== Janitor Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+=== System Metrics ===
+CPU Usage: 56.8%
+Memory Usage: 22%
+Disk Usage: 23%
+
+Monitoring complete. Check /home/host/Documents/Machina/MF_Main/System/Logs/alerts.log for detailed alerts.
+=== Agent Monitoring Report: 2025-06-01T18:30:02Z ===
+
+=== Analyst Status ===
+Analyst agent is healthy
+=== Analyst Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Documenter Status ===
+Documenter agent is healthy
+=== Documenter Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Janitor Status ===
+Janitor agent is healthy
+=== Janitor Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+=== System Metrics ===
+CPU Usage: 60.1%
+Memory Usage: 23%
+Disk Usage: 24%
+
+Monitoring complete. Check /home/host/Documents/Machina/MF_Main/System/Logs/alerts.log for detailed alerts.
+=== Agent Monitoring Report: 2025-06-01T18:35:01Z ===
+
+=== Analyst Status ===
+Analyst agent is healthy
+=== Analyst Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Documenter Status ===
+Documenter agent is healthy
+=== Documenter Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Janitor Status ===
+Janitor agent is healthy
+=== Janitor Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+=== System Metrics ===
+CPU Usage: 60.1%
+Memory Usage: 23%
+Disk Usage: 26%
+
+Monitoring complete. Check /home/host/Documents/Machina/MF_Main/System/Logs/alerts.log for detailed alerts.
+=== Agent Monitoring Report: 2025-06-01T18:40:01Z ===
+
+=== Analyst Status ===
+Analyst agent is healthy
+=== Analyst Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Documenter Status ===
+Documenter agent is healthy
+=== Documenter Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Janitor Status ===
+Janitor agent is healthy
+=== Janitor Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+=== System Metrics ===
+CPU Usage: 57.4%
+Memory Usage: 22%
+Disk Usage: 27%
+
+Monitoring complete. Check /home/host/Documents/Machina/MF_Main/System/Logs/alerts.log for detailed alerts.
+=== Agent Monitoring Report: 2025-06-01T18:45:01Z ===
+
+=== Analyst Status ===
+Analyst agent is healthy
+=== Analyst Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Documenter Status ===
+Documenter agent is healthy
+=== Documenter Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Janitor Status ===
+Janitor agent is healthy
+=== Janitor Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+=== System Metrics ===
+CPU Usage: 57.4%
+Memory Usage: 23%
+Disk Usage: 29%
+
+Monitoring complete. Check /home/host/Documents/Machina/MF_Main/System/Logs/alerts.log for detailed alerts.
+=== Agent Monitoring Report: 2025-06-01T18:50:01Z ===
+
+=== Analyst Status ===
+Analyst agent is healthy
+=== Analyst Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Documenter Status ===
+Documenter agent is healthy
+=== Documenter Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Janitor Status ===
+Janitor agent is healthy
+=== Janitor Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+=== System Metrics ===
+CPU Usage: 14.2%
+Memory Usage: 23%
+Disk Usage: 4%
+
+Monitoring complete. Check /home/host/Documents/Machina/MF_Main/System/Logs/alerts.log for detailed alerts.
+=== Agent Monitoring Report: 2025-06-01T18:55:01Z ===
+
+=== Analyst Status ===
+Analyst agent is healthy
+=== Analyst Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Documenter Status ===
+Documenter agent is healthy
+=== Documenter Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Janitor Status ===
+Janitor agent is healthy
+=== Janitor Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+=== System Metrics ===
+CPU Usage: 9.0%
+Memory Usage: 23%
+Disk Usage: 5%
+
+Monitoring complete. Check /home/host/Documents/Machina/MF_Main/System/Logs/alerts.log for detailed alerts.
+=== Agent Monitoring Report: 2025-06-01T19:00:01Z ===
+
+=== Analyst Status ===
+Analyst agent is healthy
+=== Analyst Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Documenter Status ===
+Documenter agent is healthy
+=== Documenter Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+
+=== Janitor Status ===
+Janitor agent is healthy
+=== Janitor Processing Metrics ===
+Processed files: 1021
+Failed files: 0
+Error rate: 0
+=== System Metrics ===
+CPU Usage: 8.7%
+Memory Usage: 23%
+Disk Usage: 5%
+
+Monitoring complete. Check /home/host/Documents/Machina/MF_Main/System/Logs/alerts.log for detailed alerts.

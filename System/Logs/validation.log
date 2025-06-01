@@ -1,0 +1,29 @@
+[2025-06-01T16:27:19Z] Validating message: test_message.json
+[2025-06-01T16:27:19Z] FAILED: Validation errors found:
+[2025-06-01T16:27:19Z] - Content structure doesn't match template for type: status_update
+[2025-06-01T16:27:42Z] Validating message: ALT_1748795262.json
+[2025-06-01T16:27:42Z] SUCCESS: Message validation passed
+[2025-06-01T16:27:42Z] Validating message: DAT_1748795262.json
+[2025-06-01T16:27:42Z] SUCCESS: Message validation passed
+[2025-06-01T16:27:42Z] Validating message: STS_1748795262.json
+[2025-06-01T16:27:42Z] FAILED: Validation errors found:
+[2025-06-01T16:27:42Z] - Content structure doesn't match template for type: status_update
+[2025-06-01T16:27:42Z] Validating message: TSK_1748795262.json
+[2025-06-01T16:27:42Z] SUCCESS: Message validation passed
+[2025-06-01T16:28:04Z] Validating message: ALT_1748795284.json
+[2025-06-01T16:28:04Z] SUCCESS: Message validation passed
+[2025-06-01T16:28:04Z] Validating message: DAT_1748795284.json
+[2025-06-01T16:28:04Z] SUCCESS: Message validation passed
+[2025-06-01T16:28:04Z] Validating message: STS_1748795284.json
+[2025-06-01T16:28:04Z] FAILED: Validation errors found:
+[2025-06-01T16:28:04Z] - Content structure doesn't match template for type: status_update
+[2025-06-01T16:28:04Z] Validating message: TSK_1748795284.json
+[2025-06-01T16:28:04Z] SUCCESS: Message validation passed
+[2025-06-01T16:28:33Z] Validating message: ALT_1748795284.json
+[2025-06-01T16:28:33Z] SUCCESS: Message validation passed
+[2025-06-01T16:28:33Z] Validating message: DAT_1748795284.json
+[2025-06-01T16:28:33Z] SUCCESS: Message validation passed
+[2025-06-01T16:28:33Z] Validating message: STS_1748795284.json
+[2025-06-01T16:28:33Z] SUCCESS: Message validation passed
+[2025-06-01T16:28:33Z] Validating message: TSK_1748795284.json
+[2025-06-01T16:28:33Z] SUCCESS: Message validation passed

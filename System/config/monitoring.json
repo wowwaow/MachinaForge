@@ -1,0 +1,45 @@
+{
+    "monitoring": {
+        "metrics": {
+            "collection_interval": 60,
+            "retention_period": 604800,
+            "metrics_path": "/home/host/Documents/Machina/MF_Main/System/Metrics"
+        },
+        "alerts": {
+            "thresholds": {
+                "queue_size": 1000,
+                "processing_time": 300,
+                "error_rate": 0.01,
+                "memory_usage": 85,
+                "disk_usage": 90
+            },
+            "notification": {
+                "channels": ["log", "console"],
+                "log_path": "/home/host/Documents/Machina/MF_Main/System/Logs/alerts.log"
+            }
+        },
+        "agent_health": {
+            "check_interval": 30,
+            "timeout": 120,
+            "heartbeat_path": "/home/host/Documents/Machina/MF_Main/System/health"
+        }
+    },
+    "dashboards": {
+        "path": "/home/host/Documents/Machina/MF_Main/System/Dashboards",
+        "update_interval": 60,
+        "views": [
+            {
+                "name": "agent_status",
+                "metrics": ["queue_size", "processing_rate", "error_rate", "memory_usage"]
+            },
+            {
+                "name": "system_health",
+                "metrics": ["cpu_usage", "memory_usage", "disk_usage", "network_io"]
+            },
+            {
+                "name": "processing_metrics",
+                "metrics": ["files_processed", "processing_time", "success_rate", "throughput"]
+            }
+        ]
+    }
+}

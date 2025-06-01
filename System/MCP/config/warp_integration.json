@@ -1,0 +1,51 @@
+{
+    "integration": {
+        "name": "Warp Agent Monitor",
+        "version": "1.0.0",
+        "type": "mcp_endpoint",
+        "protocol": "http",
+        "authentication": {
+            "type": "api_key",
+            "header": "X-API-Key",
+            "key_file": "/home/host/Documents/Machina/MF_Main/System/MCP/config/api_key"
+        }
+    },
+    "endpoints": {
+        "status": {
+            "url": "http://localhost:8080/status",
+            "method": "GET",
+            "interval": 60,
+            "timeout": 10
+        },
+        "metrics": {
+            "url": "http://localhost:8080/metrics",
+            "method": "GET",
+            "interval": 300,
+            "timeout": 30
+        },
+        "trends": {
+            "url": "http://localhost:8080/trends",
+            "method": "GET",
+            "interval": 600,
+            "timeout": 60
+        }
+    },
+    "data_mapping": {
+        "agent_status": {
+            "path": "agents",
+            "fields": {
+                "total": "integer",
+                "active": "integer",
+                "healthy": "integer"
+            }
+        },
+        "metrics": {
+            "path": "metrics",
+            "fields": {
+                "cpu_usage": "float",
+                "memory_usage": "float",
+                "disk_usage": "float"
+            }
+        }
+    }
+}

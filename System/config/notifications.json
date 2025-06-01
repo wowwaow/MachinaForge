@@ -1,0 +1,26 @@
+{
+    "channels": {
+        "slack": {
+            "enabled": true,
+            "webhook_url": "{{SLACK_WEBHOOK_URL}}",
+            "channel": "#agent-monitoring"
+        },
+        "email": {
+            "enabled": true,
+            "smtp_server": "{{SMTP_SERVER}}",
+            "port": 587,
+            "username": "{{SMTP_USERNAME}}",
+            "password": "{{SMTP_PASSWORD}}",
+            "recipients": ["admin@example.com"]
+        },
+        "discord": {
+            "enabled": true,
+            "webhook_url": "{{DISCORD_WEBHOOK_URL}}",
+            "channel_id": "{{DISCORD_CHANNEL_ID}}"
+        }
+    },
+    "notification_levels": {
+        "warning": ["slack", "discord"],
+        "critical": ["slack", "email", "discord"]
+    }
+}

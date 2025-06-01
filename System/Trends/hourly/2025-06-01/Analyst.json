@@ -1,0 +1,15 @@
+{
+  "agent": "Analyst",
+  "timestamp": "2025-06-01T17:21:06Z",
+  "metrics": {
+    "system": {
+      "cpu_usage": 27.5,
+      "memory_usage": 28,
+      "disk_usage": 5
+    },
+    "processing": {
+      "processed_count": 1021,
+      "failed_count": 0
+    }
+  }
+}

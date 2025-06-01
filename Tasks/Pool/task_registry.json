@@ -1,0 +1,63 @@
+{
+  "ready_tasks": [
+    {
+      "task_id": "TD-001-20250601",
+      "type": "template_development",
+      "status": "completed",
+      "priority": "P1",
+      "assigned_role": "systems_architect",
+      "dependencies": [],
+      "blocking": ["HR-001-20250601"],
+      "completed_at": "2025-06-01T18:41:14Z"
+    },
+    {
+      "task_id": "HR-001-20250601",
+      "type": "heartbeat_registry",
+      "status": "completed",
+      "priority": "P1",
+      "assigned_role": "programmer",
+      "dependencies": ["TD-001-20250601"],
+      "blocking": [],
+      "completed_at": "2025-06-01T18:46:19Z"
+    },
+    {
+      "task_id": "SM-DOC-20250601",
+      "type": "system_documentation",
+      "status": "completed",
+      "priority": "P1",
+      "assigned_role": "systems_architect",
+      "dependencies": [],
+      "blocking": ["SM-INF-20250601"],
+      "completed_at": "2025-06-01T18:50:09Z"
+    },
+    {
+      "task_id": "SM-BCK-20250601",
+      "type": "data_backup",
+      "status": "completed",
+      "priority": "P1",
+      "assigned_role": "archivist",
+      "dependencies": [],
+      "blocking": ["SM-INF-20250601"],
+      "completed_at": "2025-06-01T18:58:36Z"
+    },
+    {
+      "task_id": "SM-INF-20250601",
+      "type": "infrastructure_setup",
+      "status": "ready",
+      "priority": "P1",
+      "assigned_role": "systems_architect",
+      "dependencies": ["SM-DOC-20250601", "SM-BCK-20250601"],
+      "blocking": ["SM-MON-20250601"]
+    },
+    {
+      "task_id": "SM-MON-20250601",
+      "type": "monitoring_setup",
+      "status": "ready",
+      "priority": "P1",
+      "assigned_role": "programmer",
+      "dependencies": ["SM-INF-20250601"],
+      "blocking": []
+    }
+  ],
+  "last_updated": "2025-06-01T18:58:36Z"
+}

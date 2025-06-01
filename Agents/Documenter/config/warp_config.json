@@ -1,0 +1,34 @@
+{
+  "agent_id": "warp-documenter-20250601T165808Z",
+  "role": "Documenter",
+  "type": "warp",
+  "initialized": "2025-06-01T16:58:08Z",
+  "capabilities": {
+    "documentation": true,
+    "markdown_processing": true,
+    "template_management": true,
+    "cross_referencing": true,
+    "report_formatting": true
+  },
+  "warp_protocol": {
+    "version": "1.0",
+    "message_format": "json",
+    "communication": "async",
+    "channels": {
+      "input": "/home/host/Documents/Machina/MF_Main/SystemComponents/Handoff/incoming",
+      "output": "/home/host/Documents/Machina/MF_Main/SystemComponents/Handoff/processed",
+      "error": "/home/host/Documents/Machina/MF_Main/SystemComponents/Handoff/failed"
+    },
+    "logging": {
+      "path": "/home/host/Documents/Machina/MF_Main/Agents/Documenter/logs",
+      "level": "info",
+      "format": "json"
+    }
+  },
+  "status": {
+    "health": "running",
+    "last_heartbeat": "2025-06-01T19:00:01Z",
+    "processing_count": 0,
+    "error_count": 0
+  }
+}

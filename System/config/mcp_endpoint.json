@@ -1,0 +1,23 @@
+{
+    "server": {
+        "enabled": true,
+        "host": "localhost",
+        "port": 8080,
+        "endpoints": {
+            "/status": {
+                "method": "GET",
+                "source": "/home/host/Documents/Machina/MF_Main/System/Metrics/trends/2025-06-01",
+                "update_interval": 60
+            },
+            "/baseline": {
+                "method": "GET",
+                "source": "/home/host/Documents/Machina/MF_Main/System/Metrics/baseline",
+                "update_interval": 300
+            }
+        },
+        "security": {
+            "api_key_required": true,
+            "api_key": "{{MCP_API_KEY}}"
+        }
+    }
+}

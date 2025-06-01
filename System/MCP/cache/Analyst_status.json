@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-06-01T18:59:01Z",
+  "agent": "Analyst",
+  "metrics": {
+    "processing": {
+      "processed_count": 1021,
+      "failed_count": 0,
+      "success_rate": 100.00
+    },
+    "system": {
+      "cpu_usage": 10.3,
+      "memory_usage": 23,
+      "disk_usage": 5
+    }
+  },
+  "trends": {
+    "agent": "Analyst",
+    "samples": [
+      {
+        "timestamp": "2025-06-01T17:22:03Z",
+        "metrics": {
+          "system": {
+            "cpu_usage": 34.6,
+            "memory_usage": 27,
+            "disk_usage": 5
+          },
+          "processing": {
+            "processed_count": 1021,
+            "failed_count": 0
+          }
+        }
+      }
+    ]
+  }
+}

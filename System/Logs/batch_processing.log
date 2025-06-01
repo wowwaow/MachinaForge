@@ -1,0 +1,1277 @@
+[2025-06-01T16:53:33Z] Batch processor initialized
+[2025-06-01T16:53:33Z] Processing batch of 5 messages...
+[2025-06-01T16:53:33Z] Processed batch_test_0.json in 10ms
+[2025-06-01T16:53:33Z] Processed batch_test_10.json in 10ms
+[2025-06-01T16:53:33Z] Processed batch_test_11.json in 9ms
+[2025-06-01T16:53:33Z] Processed batch_test_12.json in 9ms
+[2025-06-01T16:53:33Z] Processed batch_test_13.json in 9ms
+[2025-06-01T16:53:33Z] Batch processing complete:
+[2025-06-01T16:53:33Z] - Processed: 5
+[2025-06-01T16:53:33Z] - Failed: 0
+[2025-06-01T16:53:33Z] - Total time: 68ms
+[2025-06-01T16:53:33Z] - Average time per message: 13ms
+[2025-06-01T16:53:33Z] Processing batch of 5 messages...
+[2025-06-01T16:53:33Z] Processed batch_test_14.json in 10ms
+[2025-06-01T16:53:33Z] Processed batch_test_15.json in 11ms
+[2025-06-01T16:53:33Z] Processed batch_test_16.json in 10ms
+[2025-06-01T16:53:33Z] Processed batch_test_17.json in 9ms
+[2025-06-01T16:53:33Z] Processed batch_test_18.json in 10ms
+[2025-06-01T16:53:33Z] Batch processing complete:
+[2025-06-01T16:53:33Z] - Processed: 5
+[2025-06-01T16:53:33Z] - Failed: 0
+[2025-06-01T16:53:33Z] - Total time: 72ms
+[2025-06-01T16:53:33Z] - Average time per message: 14ms
+[2025-06-01T16:53:33Z] Processing batch of 5 messages...
+[2025-06-01T16:53:33Z] Processed batch_test_19.json in 11ms
+[2025-06-01T16:53:33Z] Processed batch_test_1.json in 11ms
+[2025-06-01T16:53:33Z] Processed batch_test_2.json in 9ms
+[2025-06-01T16:53:33Z] Processed batch_test_3.json in 10ms
+[2025-06-01T16:53:33Z] Processed batch_test_4.json in 10ms
+[2025-06-01T16:53:33Z] Batch processing complete:
+[2025-06-01T16:53:33Z] - Processed: 5
+[2025-06-01T16:53:33Z] - Failed: 0
+[2025-06-01T16:53:33Z] - Total time: 72ms
+[2025-06-01T16:53:33Z] - Average time per message: 14ms
+[2025-06-01T16:53:34Z] Processing batch of 5 messages...
+[2025-06-01T16:53:34Z] Processed batch_test_5.json in 10ms
+[2025-06-01T16:53:34Z] Processed batch_test_6.json in 9ms
+[2025-06-01T16:53:34Z] Processed batch_test_7.json in 9ms
+[2025-06-01T16:53:34Z] Processed batch_test_8.json in 9ms
+[2025-06-01T16:53:34Z] Processed batch_test_9.json in 9ms
+[2025-06-01T16:53:34Z] Batch processing complete:
+[2025-06-01T16:53:34Z] - Processed: 5
+[2025-06-01T16:53:34Z] - Failed: 0
+[2025-06-01T16:53:34Z] - Total time: 67ms
+[2025-06-01T16:53:34Z] - Average time per message: 13ms
+[2025-06-01T16:53:34Z] Processing batch of 5 messages...
+[2025-06-01T16:53:34Z] Processed batch_test_20.json in 10ms
+[2025-06-01T16:53:34Z] Processed batch_test_21.json in 11ms
+[2025-06-01T16:53:34Z] Processed batch_test_22.json in 10ms
+[2025-06-01T16:53:34Z] Processed batch_test_23.json in 9ms
+[2025-06-01T16:53:34Z] Processed batch_test_24.json in 9ms
+[2025-06-01T16:53:34Z] Batch processing complete:
+[2025-06-01T16:53:34Z] - Processed: 5
+[2025-06-01T16:53:34Z] - Failed: 0
+[2025-06-01T16:53:34Z] - Total time: 69ms
+[2025-06-01T16:53:34Z] - Average time per message: 13ms
+[2025-06-01T16:53:34Z] Processing batch of 5 messages...
+[2025-06-01T16:53:34Z] Processed batch_test_25.json in 10ms
+[2025-06-01T16:53:34Z] Processed batch_test_26.json in 10ms
+[2025-06-01T16:53:34Z] Processed batch_test_27.json in 10ms
+[2025-06-01T16:53:34Z] Processed batch_test_28.json in 9ms
+[2025-06-01T16:53:34Z] Processed batch_test_29.json in 10ms
+[2025-06-01T16:53:34Z] Batch processing complete:
+[2025-06-01T16:53:34Z] - Processed: 5
+[2025-06-01T16:53:34Z] - Failed: 0
+[2025-06-01T16:53:34Z] - Total time: 68ms
+[2025-06-01T16:53:34Z] - Average time per message: 13ms
+[2025-06-01T16:53:34Z] Processing batch of 5 messages...
+[2025-06-01T16:53:34Z] Processed batch_test_30.json in 11ms
+[2025-06-01T16:53:34Z] Processed batch_test_31.json in 10ms
+[2025-06-01T16:53:35Z] Processed batch_test_32.json in 9ms
+[2025-06-01T16:53:35Z] Processed batch_test_33.json in 9ms
+[2025-06-01T16:53:35Z] Processed batch_test_34.json in 10ms
+[2025-06-01T16:53:35Z] Batch processing complete:
+[2025-06-01T16:53:35Z] - Processed: 5
+[2025-06-01T16:53:35Z] - Failed: 0
+[2025-06-01T16:53:35Z] - Total time: 68ms
+[2025-06-01T16:53:35Z] - Average time per message: 13ms
+[2025-06-01T16:53:35Z] Processing batch of 5 messages...
+[2025-06-01T16:53:35Z] Processed batch_test_35.json in 10ms
+[2025-06-01T16:53:35Z] Processed batch_test_36.json in 10ms
+[2025-06-01T16:53:35Z] Processed batch_test_37.json in 9ms
+[2025-06-01T16:53:35Z] Processed batch_test_38.json in 10ms
+[2025-06-01T16:53:35Z] Processed batch_test_39.json in 10ms
+[2025-06-01T16:53:35Z] Batch processing complete:
+[2025-06-01T16:53:35Z] - Processed: 5
+[2025-06-01T16:53:35Z] - Failed: 0
+[2025-06-01T16:53:35Z] - Total time: 69ms
+[2025-06-01T16:53:35Z] - Average time per message: 13ms
+[2025-06-01T16:53:35Z] Processing batch of 5 messages...
+[2025-06-01T16:53:35Z] Processed batch_test_40.json in 10ms
+[2025-06-01T16:53:35Z] Processed batch_test_41.json in 10ms
+[2025-06-01T16:53:35Z] Processed batch_test_42.json in 10ms
+[2025-06-01T16:53:35Z] Processed batch_test_43.json in 9ms
+[2025-06-01T16:53:35Z] Processed batch_test_44.json in 9ms
+[2025-06-01T16:53:35Z] Batch processing complete:
+[2025-06-01T16:53:35Z] - Processed: 5
+[2025-06-01T16:53:35Z] - Failed: 0
+[2025-06-01T16:53:35Z] - Total time: 71ms
+[2025-06-01T16:53:35Z] - Average time per message: 14ms
+[2025-06-01T16:53:35Z] Processing batch of 5 messages...
+[2025-06-01T16:53:35Z] Processed batch_test_45.json in 10ms
+[2025-06-01T16:53:35Z] Processed batch_test_46.json in 10ms
+[2025-06-01T16:53:35Z] Processed batch_test_47.json in 10ms
+[2025-06-01T16:53:35Z] Processed batch_test_48.json in 9ms
+[2025-06-01T16:53:35Z] Processed batch_test_49.json in 10ms
+[2025-06-01T16:53:35Z] Batch processing complete:
+[2025-06-01T16:53:35Z] - Processed: 5
+[2025-06-01T16:53:35Z] - Failed: 0
+[2025-06-01T16:53:35Z] - Total time: 69ms
+[2025-06-01T16:53:35Z] - Average time per message: 13ms
+[2025-06-01T16:53:36Z] Processing batch of 5 messages...
+[2025-06-01T16:53:36Z] Processed batch_test_50.json in 10ms
+[2025-06-01T16:53:36Z] Processed batch_test_51.json in 10ms
+[2025-06-01T16:53:36Z] Processed batch_test_52.json in 9ms
+[2025-06-01T16:53:36Z] Processed batch_test_53.json in 9ms
+[2025-06-01T16:53:36Z] Processed batch_test_54.json in 10ms
+[2025-06-01T16:53:36Z] Batch processing complete:
+[2025-06-01T16:53:36Z] - Processed: 5
+[2025-06-01T16:53:36Z] - Failed: 0
+[2025-06-01T16:53:36Z] - Total time: 68ms
+[2025-06-01T16:53:36Z] - Average time per message: 13ms
+[2025-06-01T16:53:36Z] Processing batch of 5 messages...
+[2025-06-01T16:53:36Z] Processed batch_test_55.json in 11ms
+[2025-06-01T16:53:36Z] Processed batch_test_56.json in 10ms
+[2025-06-01T16:53:36Z] Processed batch_test_57.json in 10ms
+[2025-06-01T16:53:36Z] Processed batch_test_58.json in 11ms
+[2025-06-01T16:53:36Z] Processed batch_test_59.json in 10ms
+[2025-06-01T16:53:36Z] Batch processing complete:
+[2025-06-01T16:53:36Z] - Processed: 5
+[2025-06-01T16:53:36Z] - Failed: 0
+[2025-06-01T16:53:36Z] - Total time: 75ms
+[2025-06-01T16:53:36Z] - Average time per message: 15ms
+[2025-06-01T16:53:36Z] Processing batch of 5 messages...
+[2025-06-01T16:53:36Z] Processed batch_test_60.json in 11ms
+[2025-06-01T16:53:36Z] Processed batch_test_61.json in 11ms
+[2025-06-01T16:53:36Z] Processed batch_test_62.json in 11ms
+[2025-06-01T16:53:36Z] Processed batch_test_63.json in 11ms
+[2025-06-01T16:53:36Z] Processed batch_test_64.json in 11ms
+[2025-06-01T16:53:36Z] Batch processing complete:
+[2025-06-01T16:53:36Z] - Processed: 5
+[2025-06-01T16:53:36Z] - Failed: 0
+[2025-06-01T16:53:36Z] - Total time: 76ms
+[2025-06-01T16:53:36Z] - Average time per message: 15ms
+[2025-06-01T16:53:36Z] Processing batch of 5 messages...
+[2025-06-01T16:53:36Z] Processed batch_test_65.json in 10ms
+[2025-06-01T16:53:36Z] Processed batch_test_66.json in 10ms
+[2025-06-01T16:53:36Z] Processed batch_test_67.json in 11ms
+[2025-06-01T16:53:36Z] Processed batch_test_68.json in 9ms
+[2025-06-01T16:53:36Z] Processed batch_test_69.json in 9ms
+[2025-06-01T16:53:36Z] Batch processing complete:
+[2025-06-01T16:53:36Z] - Processed: 5
+[2025-06-01T16:53:36Z] - Failed: 0
+[2025-06-01T16:53:36Z] - Total time: 70ms
+[2025-06-01T16:53:36Z] - Average time per message: 14ms
+[2025-06-01T16:53:36Z] Processing batch of 5 messages...
+[2025-06-01T16:53:36Z] Processed batch_test_70.json in 10ms
+[2025-06-01T16:53:36Z] Processed batch_test_71.json in 10ms
+[2025-06-01T16:53:37Z] Processed batch_test_72.json in 9ms
+[2025-06-01T16:53:37Z] Processed batch_test_73.json in 10ms
+[2025-06-01T16:53:37Z] Processed batch_test_74.json in 9ms
+[2025-06-01T16:53:37Z] Batch processing complete:
+[2025-06-01T16:53:37Z] - Processed: 5
+[2025-06-01T16:53:37Z] - Failed: 0
+[2025-06-01T16:53:37Z] - Total time: 69ms
+[2025-06-01T16:53:37Z] - Average time per message: 13ms
+[2025-06-01T16:53:37Z] Processing batch of 5 messages...
+[2025-06-01T16:53:37Z] Processed batch_test_75.json in 11ms
+[2025-06-01T16:53:37Z] Processed batch_test_76.json in 11ms
+[2025-06-01T16:53:37Z] Processed batch_test_77.json in 11ms
+[2025-06-01T16:53:37Z] Processed batch_test_78.json in 11ms
+[2025-06-01T16:53:37Z] Processed batch_test_79.json in 9ms
+[2025-06-01T16:53:37Z] Batch processing complete:
+[2025-06-01T16:53:37Z] - Processed: 5
+[2025-06-01T16:53:37Z] - Failed: 0
+[2025-06-01T16:53:37Z] - Total time: 73ms
+[2025-06-01T16:53:37Z] - Average time per message: 14ms
+[2025-06-01T16:53:37Z] Processing batch of 5 messages...
+[2025-06-01T16:53:37Z] Processed batch_test_80.json in 10ms
+[2025-06-01T16:53:37Z] Processed batch_test_81.json in 12ms
+[2025-06-01T16:53:37Z] Processed batch_test_82.json in 12ms
+[2025-06-01T16:53:37Z] Processed batch_test_83.json in 11ms
+[2025-06-01T16:53:37Z] Processed batch_test_84.json in 10ms
+[2025-06-01T16:53:37Z] Batch processing complete:
+[2025-06-01T16:53:37Z] - Processed: 5
+[2025-06-01T16:53:37Z] - Failed: 0
+[2025-06-01T16:53:37Z] - Total time: 76ms
+[2025-06-01T16:53:37Z] - Average time per message: 15ms
+[2025-06-01T16:53:37Z] Processing batch of 5 messages...
+[2025-06-01T16:53:37Z] Processed batch_test_85.json in 10ms
+[2025-06-01T16:53:37Z] Processed batch_test_86.json in 11ms
+[2025-06-01T16:53:37Z] Processed batch_test_87.json in 10ms
+[2025-06-01T16:53:37Z] Processed batch_test_88.json in 10ms
+[2025-06-01T16:53:37Z] Processed batch_test_89.json in 10ms
+[2025-06-01T16:53:37Z] Batch processing complete:
+[2025-06-01T16:53:37Z] - Processed: 5
+[2025-06-01T16:53:37Z] - Failed: 0
+[2025-06-01T16:53:37Z] - Total time: 72ms
+[2025-06-01T16:53:37Z] - Average time per message: 14ms
+[2025-06-01T16:53:38Z] Processing batch of 5 messages...
+[2025-06-01T16:53:38Z] Processed batch_test_90.json in 10ms
+[2025-06-01T16:53:38Z] Processed batch_test_91.json in 10ms
+[2025-06-01T16:53:38Z] Processed batch_test_92.json in 10ms
+[2025-06-01T16:53:38Z] Processed batch_test_93.json in 10ms
+[2025-06-01T16:53:38Z] Processed batch_test_94.json in 10ms
+[2025-06-01T16:53:38Z] Batch processing complete:
+[2025-06-01T16:53:38Z] - Processed: 5
+[2025-06-01T16:53:38Z] - Failed: 0
+[2025-06-01T16:53:38Z] - Total time: 71ms
+[2025-06-01T16:53:38Z] - Average time per message: 14ms
+[2025-06-01T16:53:38Z] Processing batch of 5 messages...
+[2025-06-01T16:53:38Z] Processed batch_test_95.json in 10ms
+[2025-06-01T16:53:38Z] Processed batch_test_96.json in 11ms
+[2025-06-01T16:53:38Z] Processed batch_test_97.json in 11ms
+[2025-06-01T16:53:38Z] Processed batch_test_98.json in 10ms
+[2025-06-01T16:53:38Z] Processed batch_test_99.json in 10ms
+[2025-06-01T16:53:38Z] Batch processing complete:
+[2025-06-01T16:53:38Z] - Processed: 5
+[2025-06-01T16:53:38Z] - Failed: 0
+[2025-06-01T16:53:38Z] - Total time: 72ms
+[2025-06-01T16:53:38Z] - Average time per message: 14ms
+[2025-06-01T16:53:38Z] Processing batch of 5 messages...
+[2025-06-01T16:53:38Z] Processed batch_test_100.json in 10ms
+[2025-06-01T16:53:38Z] Processed batch_test_101.json in 9ms
+[2025-06-01T16:53:38Z] Processed batch_test_102.json in 10ms
+[2025-06-01T16:53:38Z] Processed batch_test_103.json in 10ms
+[2025-06-01T16:53:38Z] Processed batch_test_104.json in 11ms
+[2025-06-01T16:53:38Z] Batch processing complete:
+[2025-06-01T16:53:38Z] - Processed: 5
+[2025-06-01T16:53:38Z] - Failed: 0
+[2025-06-01T16:53:38Z] - Total time: 71ms
+[2025-06-01T16:53:38Z] - Average time per message: 14ms
+[2025-06-01T16:53:38Z] Processing batch of 5 messages...
+[2025-06-01T16:53:38Z] Processed batch_test_105.json in 9ms
+[2025-06-01T16:53:38Z] Processed batch_test_106.json in 10ms
+[2025-06-01T16:53:38Z] Processed batch_test_107.json in 10ms
+[2025-06-01T16:53:38Z] Processed batch_test_108.json in 10ms
+[2025-06-01T16:53:38Z] Processed batch_test_109.json in 10ms
+[2025-06-01T16:53:38Z] Batch processing complete:
+[2025-06-01T16:53:38Z] - Processed: 5
+[2025-06-01T16:53:38Z] - Failed: 0
+[2025-06-01T16:53:38Z] - Total time: 70ms
+[2025-06-01T16:53:38Z] - Average time per message: 14ms
+[2025-06-01T16:53:39Z] Processing batch of 5 messages...
+[2025-06-01T16:53:39Z] Processed batch_test_110.json in 10ms
+[2025-06-01T16:53:39Z] Processed batch_test_111.json in 10ms
+[2025-06-01T16:53:39Z] Processed batch_test_112.json in 9ms
+[2025-06-01T16:53:39Z] Processed batch_test_113.json in 9ms
+[2025-06-01T16:53:39Z] Processed batch_test_114.json in 10ms
+[2025-06-01T16:53:39Z] Batch processing complete:
+[2025-06-01T16:53:39Z] - Processed: 5
+[2025-06-01T16:53:39Z] - Failed: 0
+[2025-06-01T16:53:39Z] - Total time: 69ms
+[2025-06-01T16:53:39Z] - Average time per message: 13ms
+[2025-06-01T16:53:39Z] Processing batch of 5 messages...
+[2025-06-01T16:53:39Z] Processed batch_test_115.json in 11ms
+[2025-06-01T16:53:39Z] Processed batch_test_116.json in 11ms
+[2025-06-01T16:53:39Z] Processed batch_test_117.json in 11ms
+[2025-06-01T16:53:39Z] Processed batch_test_118.json in 10ms
+[2025-06-01T16:53:39Z] Processed batch_test_119.json in 10ms
+[2025-06-01T16:53:39Z] Batch processing complete:
+[2025-06-01T16:53:39Z] - Processed: 5
+[2025-06-01T16:53:39Z] - Failed: 0
+[2025-06-01T16:53:39Z] - Total time: 72ms
+[2025-06-01T16:53:39Z] - Average time per message: 14ms
+[2025-06-01T16:53:39Z] Processing batch of 5 messages...
+[2025-06-01T16:53:39Z] Processed batch_test_120.json in 10ms
+[2025-06-01T16:53:39Z] Processed batch_test_121.json in 10ms
+[2025-06-01T16:53:39Z] Processed batch_test_122.json in 10ms
+[2025-06-01T16:53:39Z] Processed batch_test_123.json in 10ms
+[2025-06-01T16:53:39Z] Processed batch_test_124.json in 10ms
+[2025-06-01T16:53:39Z] Batch processing complete:
+[2025-06-01T16:53:39Z] - Processed: 5
+[2025-06-01T16:53:39Z] - Failed: 0
+[2025-06-01T16:53:39Z] - Total time: 71ms
+[2025-06-01T16:53:39Z] - Average time per message: 14ms
+[2025-06-01T16:53:39Z] Processing batch of 5 messages...
+[2025-06-01T16:53:39Z] Processed batch_test_125.json in 10ms
+[2025-06-01T16:53:39Z] Processed batch_test_126.json in 11ms
+[2025-06-01T16:53:39Z] Processed batch_test_127.json in 11ms
+[2025-06-01T16:53:39Z] Processed batch_test_128.json in 9ms
+[2025-06-01T16:53:40Z] Processed batch_test_129.json in 9ms
+[2025-06-01T16:53:40Z] Batch processing complete:
+[2025-06-01T16:53:40Z] - Processed: 5
+[2025-06-01T16:53:40Z] - Failed: 0
+[2025-06-01T16:53:40Z] - Total time: 72ms
+[2025-06-01T16:53:40Z] - Average time per message: 14ms
+[2025-06-01T16:53:40Z] Processing batch of 5 messages...
+[2025-06-01T16:53:40Z] Processed batch_test_130.json in 10ms
+[2025-06-01T16:53:40Z] Processed batch_test_131.json in 10ms
+[2025-06-01T16:53:40Z] Processed batch_test_132.json in 10ms
+[2025-06-01T16:53:40Z] Processed batch_test_133.json in 10ms
+[2025-06-01T16:53:40Z] Processed batch_test_134.json in 10ms
+[2025-06-01T16:53:40Z] Batch processing complete:
+[2025-06-01T16:53:40Z] - Processed: 5
+[2025-06-01T16:53:40Z] - Failed: 0
+[2025-06-01T16:53:40Z] - Total time: 71ms
+[2025-06-01T16:53:40Z] - Average time per message: 14ms
+[2025-06-01T16:53:40Z] Processing batch of 5 messages...
+[2025-06-01T16:53:40Z] Processed batch_test_135.json in 10ms
+[2025-06-01T16:53:40Z] Processed batch_test_136.json in 10ms
+[2025-06-01T16:53:40Z] Processed batch_test_137.json in 10ms
+[2025-06-01T16:53:40Z] Processed batch_test_138.json in 9ms
+[2025-06-01T16:53:40Z] Processed batch_test_139.json in 10ms
+[2025-06-01T16:53:40Z] Batch processing complete:
+[2025-06-01T16:53:40Z] - Processed: 5
+[2025-06-01T16:53:40Z] - Failed: 0
+[2025-06-01T16:53:40Z] - Total time: 70ms
+[2025-06-01T16:53:40Z] - Average time per message: 14ms
+[2025-06-01T16:53:40Z] Processing batch of 5 messages...
+[2025-06-01T16:53:40Z] Processed batch_test_140.json in 10ms
+[2025-06-01T16:53:40Z] Processed batch_test_141.json in 11ms
+[2025-06-01T16:53:40Z] Processed batch_test_142.json in 10ms
+[2025-06-01T16:53:40Z] Processed batch_test_143.json in 9ms
+[2025-06-01T16:53:40Z] Processed batch_test_144.json in 10ms
+[2025-06-01T16:53:40Z] Batch processing complete:
+[2025-06-01T16:53:40Z] - Processed: 5
+[2025-06-01T16:53:40Z] - Failed: 0
+[2025-06-01T16:53:40Z] - Total time: 70ms
+[2025-06-01T16:53:40Z] - Average time per message: 14ms
+[2025-06-01T16:53:40Z] Processing batch of 5 messages...
+[2025-06-01T16:53:41Z] Processed batch_test_145.json in 10ms
+[2025-06-01T16:53:41Z] Processed batch_test_146.json in 10ms
+[2025-06-01T16:53:41Z] Processed batch_test_147.json in 9ms
+[2025-06-01T16:53:41Z] Processed batch_test_148.json in 10ms
+[2025-06-01T16:53:41Z] Processed batch_test_149.json in 9ms
+[2025-06-01T16:53:41Z] Batch processing complete:
+[2025-06-01T16:53:41Z] - Processed: 5
+[2025-06-01T16:53:41Z] - Failed: 0
+[2025-06-01T16:53:41Z] - Total time: 69ms
+[2025-06-01T16:53:41Z] - Average time per message: 13ms
+[2025-06-01T16:53:41Z] Processing batch of 5 messages...
+[2025-06-01T16:53:41Z] Processed batch_test_150.json in 10ms
+[2025-06-01T16:53:41Z] Processed batch_test_151.json in 10ms
+[2025-06-01T16:53:41Z] Processed batch_test_152.json in 10ms
+[2025-06-01T16:53:41Z] Processed batch_test_153.json in 10ms
+[2025-06-01T16:53:41Z] Processed batch_test_154.json in 9ms
+[2025-06-01T16:53:41Z] Batch processing complete:
+[2025-06-01T16:53:41Z] - Processed: 5
+[2025-06-01T16:53:41Z] - Failed: 0
+[2025-06-01T16:53:41Z] - Total time: 70ms
+[2025-06-01T16:53:41Z] - Average time per message: 14ms
+[2025-06-01T16:53:41Z] Processing batch of 5 messages...
+[2025-06-01T16:53:41Z] Processed batch_test_155.json in 9ms
+[2025-06-01T16:53:41Z] Processed batch_test_156.json in 9ms
+[2025-06-01T16:53:41Z] Processed batch_test_157.json in 10ms
+[2025-06-01T16:53:41Z] Processed batch_test_158.json in 9ms
+[2025-06-01T16:53:41Z] Processed batch_test_159.json in 11ms
+[2025-06-01T16:53:41Z] Batch processing complete:
+[2025-06-01T16:53:41Z] - Processed: 5
+[2025-06-01T16:53:41Z] - Failed: 0
+[2025-06-01T16:53:41Z] - Total time: 69ms
+[2025-06-01T16:53:41Z] - Average time per message: 13ms
+[2025-06-01T16:53:41Z] Processing batch of 5 messages...
+[2025-06-01T16:53:41Z] Processed batch_test_160.json in 10ms
+[2025-06-01T16:53:41Z] Processed batch_test_161.json in 9ms
+[2025-06-01T16:53:41Z] Processed batch_test_162.json in 10ms
+[2025-06-01T16:53:41Z] Processed batch_test_163.json in 9ms
+[2025-06-01T16:53:41Z] Processed batch_test_164.json in 10ms
+[2025-06-01T16:53:41Z] Batch processing complete:
+[2025-06-01T16:53:41Z] - Processed: 5
+[2025-06-01T16:53:41Z] - Failed: 0
+[2025-06-01T16:53:41Z] - Total time: 68ms
+[2025-06-01T16:53:41Z] - Average time per message: 13ms
+[2025-06-01T16:53:42Z] Processing batch of 5 messages...
+[2025-06-01T16:53:42Z] Processed batch_test_165.json in 10ms
+[2025-06-01T16:53:42Z] Processed batch_test_166.json in 11ms
+[2025-06-01T16:53:42Z] Processed batch_test_167.json in 11ms
+[2025-06-01T16:53:42Z] Processed batch_test_168.json in 10ms
+[2025-06-01T16:53:42Z] Processed batch_test_169.json in 10ms
+[2025-06-01T16:53:42Z] Batch processing complete:
+[2025-06-01T16:53:42Z] - Processed: 5
+[2025-06-01T16:53:42Z] - Failed: 0
+[2025-06-01T16:53:42Z] - Total time: 73ms
+[2025-06-01T16:53:42Z] - Average time per message: 14ms
+[2025-06-01T16:53:42Z] Processing batch of 5 messages...
+[2025-06-01T16:53:42Z] Processed batch_test_170.json in 10ms
+[2025-06-01T16:53:42Z] Processed batch_test_171.json in 10ms
+[2025-06-01T16:53:42Z] Processed batch_test_172.json in 10ms
+[2025-06-01T16:53:42Z] Processed batch_test_173.json in 10ms
+[2025-06-01T16:53:42Z] Processed batch_test_174.json in 10ms
+[2025-06-01T16:53:42Z] Batch processing complete:
+[2025-06-01T16:53:42Z] - Processed: 5
+[2025-06-01T16:53:42Z] - Failed: 0
+[2025-06-01T16:53:42Z] - Total time: 72ms
+[2025-06-01T16:53:42Z] - Average time per message: 14ms
+[2025-06-01T16:53:42Z] Processing batch of 5 messages...
+[2025-06-01T16:53:42Z] Processed batch_test_175.json in 11ms
+[2025-06-01T16:53:42Z] Processed batch_test_176.json in 9ms
+[2025-06-01T16:53:42Z] Processed batch_test_177.json in 11ms
+[2025-06-01T16:53:42Z] Processed batch_test_178.json in 10ms
+[2025-06-01T16:53:42Z] Processed batch_test_179.json in 9ms
+[2025-06-01T16:53:42Z] Batch processing complete:
+[2025-06-01T16:53:42Z] - Processed: 5
+[2025-06-01T16:53:42Z] - Failed: 0
+[2025-06-01T16:53:42Z] - Total time: 72ms
+[2025-06-01T16:53:42Z] - Average time per message: 14ms
+[2025-06-01T16:53:42Z] Processing batch of 5 messages...
+[2025-06-01T16:53:42Z] Processed batch_test_180.json in 10ms
+[2025-06-01T16:53:42Z] Processed batch_test_181.json in 10ms
+[2025-06-01T16:53:42Z] Processed batch_test_182.json in 11ms
+[2025-06-01T16:53:42Z] Processed batch_test_183.json in 10ms
+[2025-06-01T16:53:42Z] Processed batch_test_184.json in 10ms
+[2025-06-01T16:53:42Z] Batch processing complete:
+[2025-06-01T16:53:42Z] - Processed: 5
+[2025-06-01T16:53:42Z] - Failed: 0
+[2025-06-01T16:53:42Z] - Total time: 71ms
+[2025-06-01T16:53:42Z] - Average time per message: 14ms
+[2025-06-01T16:53:43Z] Processing batch of 5 messages...
+[2025-06-01T16:53:43Z] Processed batch_test_185.json in 10ms
+[2025-06-01T16:53:43Z] Processed batch_test_186.json in 10ms
+[2025-06-01T16:53:43Z] Processed batch_test_187.json in 10ms
+[2025-06-01T16:53:43Z] Processed batch_test_188.json in 10ms
+[2025-06-01T16:53:43Z] Processed batch_test_189.json in 11ms
+[2025-06-01T16:53:43Z] Batch processing complete:
+[2025-06-01T16:53:43Z] - Processed: 5
+[2025-06-01T16:53:43Z] - Failed: 0
+[2025-06-01T16:53:43Z] - Total time: 72ms
+[2025-06-01T16:53:43Z] - Average time per message: 14ms
+[2025-06-01T16:53:43Z] Processing batch of 5 messages...
+[2025-06-01T16:53:43Z] Processed batch_test_190.json in 10ms
+[2025-06-01T16:53:43Z] Processed batch_test_191.json in 10ms
+[2025-06-01T16:53:43Z] Processed batch_test_192.json in 10ms
+[2025-06-01T16:53:43Z] Processed batch_test_193.json in 10ms
+[2025-06-01T16:53:43Z] Processed batch_test_194.json in 9ms
+[2025-06-01T16:53:43Z] Batch processing complete:
+[2025-06-01T16:53:43Z] - Processed: 5
+[2025-06-01T16:53:43Z] - Failed: 0
+[2025-06-01T16:53:43Z] - Total time: 70ms
+[2025-06-01T16:53:43Z] - Average time per message: 14ms
+[2025-06-01T16:53:43Z] Processing batch of 5 messages...
+[2025-06-01T16:53:43Z] Processed batch_test_195.json in 10ms
+[2025-06-01T16:53:43Z] Processed batch_test_196.json in 10ms
+[2025-06-01T16:53:43Z] Processed batch_test_197.json in 11ms
+[2025-06-01T16:53:43Z] Processed batch_test_198.json in 9ms
+[2025-06-01T16:53:43Z] Processed batch_test_199.json in 10ms
+[2025-06-01T16:53:43Z] Batch processing complete:
+[2025-06-01T16:53:43Z] - Processed: 5
+[2025-06-01T16:53:43Z] - Failed: 0
+[2025-06-01T16:53:43Z] - Total time: 71ms
+[2025-06-01T16:53:43Z] - Average time per message: 14ms
+[2025-06-01T16:53:43Z] Processing batch of 5 messages...
+[2025-06-01T16:53:43Z] Processed batch_test_200.json in 11ms
+[2025-06-01T16:53:43Z] Processed batch_test_201.json in 10ms
+[2025-06-01T16:53:43Z] Processed batch_test_202.json in 10ms
+[2025-06-01T16:53:44Z] Processed batch_test_203.json in 10ms
+[2025-06-01T16:53:44Z] Processed batch_test_204.json in 10ms
+[2025-06-01T16:53:44Z] Batch processing complete:
+[2025-06-01T16:53:44Z] - Processed: 5
+[2025-06-01T16:53:44Z] - Failed: 0
+[2025-06-01T16:53:44Z] - Total time: 73ms
+[2025-06-01T16:53:44Z] - Average time per message: 14ms
+[2025-06-01T16:53:44Z] Processing batch of 5 messages...
+[2025-06-01T16:53:44Z] Processed batch_test_205.json in 11ms
+[2025-06-01T16:53:44Z] Processed batch_test_206.json in 11ms
+[2025-06-01T16:53:44Z] Processed batch_test_207.json in 10ms
+[2025-06-01T16:53:44Z] Processed batch_test_208.json in 11ms
+[2025-06-01T16:53:44Z] Processed batch_test_209.json in 9ms
+[2025-06-01T16:53:44Z] Batch processing complete:
+[2025-06-01T16:53:44Z] - Processed: 5
+[2025-06-01T16:53:44Z] - Failed: 0
+[2025-06-01T16:53:44Z] - Total time: 72ms
+[2025-06-01T16:53:44Z] - Average time per message: 14ms
+[2025-06-01T16:53:44Z] Processing batch of 5 messages...
+[2025-06-01T16:53:44Z] Processed batch_test_210.json in 11ms
+[2025-06-01T16:53:44Z] Processed batch_test_211.json in 10ms
+[2025-06-01T16:53:44Z] Processed batch_test_212.json in 11ms
+[2025-06-01T16:53:44Z] Processed batch_test_213.json in 10ms
+[2025-06-01T16:53:44Z] Processed batch_test_214.json in 10ms
+[2025-06-01T16:53:44Z] Batch processing complete:
+[2025-06-01T16:53:44Z] - Processed: 5
+[2025-06-01T16:53:44Z] - Failed: 0
+[2025-06-01T16:53:44Z] - Total time: 72ms
+[2025-06-01T16:53:44Z] - Average time per message: 14ms
+[2025-06-01T16:53:44Z] Processing batch of 5 messages...
+[2025-06-01T16:53:44Z] Processed batch_test_215.json in 10ms
+[2025-06-01T16:53:44Z] Processed batch_test_216.json in 10ms
+[2025-06-01T16:53:44Z] Processed batch_test_217.json in 10ms
+[2025-06-01T16:53:44Z] Processed batch_test_218.json in 9ms
+[2025-06-01T16:53:44Z] Processed batch_test_219.json in 10ms
+[2025-06-01T16:53:44Z] Batch processing complete:
+[2025-06-01T16:53:44Z] - Processed: 5
+[2025-06-01T16:53:44Z] - Failed: 0
+[2025-06-01T16:53:44Z] - Total time: 69ms
+[2025-06-01T16:53:44Z] - Average time per message: 13ms
+[2025-06-01T16:53:45Z] Processing batch of 5 messages...
+[2025-06-01T16:53:45Z] Processed batch_test_220.json in 10ms
+[2025-06-01T16:53:45Z] Processed batch_test_221.json in 10ms
+[2025-06-01T16:53:45Z] Processed batch_test_222.json in 10ms
+[2025-06-01T16:53:45Z] Processed batch_test_223.json in 9ms
+[2025-06-01T16:53:45Z] Processed batch_test_224.json in 10ms
+[2025-06-01T16:53:45Z] Batch processing complete:
+[2025-06-01T16:53:45Z] - Processed: 5
+[2025-06-01T16:53:45Z] - Failed: 0
+[2025-06-01T16:53:45Z] - Total time: 70ms
+[2025-06-01T16:53:45Z] - Average time per message: 14ms
+[2025-06-01T16:53:45Z] Processing batch of 5 messages...
+[2025-06-01T16:53:45Z] Processed batch_test_225.json in 10ms
+[2025-06-01T16:53:45Z] Processed batch_test_226.json in 10ms
+[2025-06-01T16:53:45Z] Processed batch_test_227.json in 12ms
+[2025-06-01T16:53:45Z] Processed batch_test_228.json in 10ms
+[2025-06-01T16:53:45Z] Processed batch_test_229.json in 9ms
+[2025-06-01T16:53:45Z] Batch processing complete:
+[2025-06-01T16:53:45Z] - Processed: 5
+[2025-06-01T16:53:45Z] - Failed: 0
+[2025-06-01T16:53:45Z] - Total time: 72ms
+[2025-06-01T16:53:45Z] - Average time per message: 14ms
+[2025-06-01T16:53:45Z] Processing batch of 5 messages...
+[2025-06-01T16:53:45Z] Processed batch_test_230.json in 11ms
+[2025-06-01T16:53:45Z] Processed batch_test_231.json in 11ms
+[2025-06-01T16:53:45Z] Processed batch_test_232.json in 10ms
+[2025-06-01T16:53:45Z] Processed batch_test_233.json in 10ms
+[2025-06-01T16:53:45Z] Processed batch_test_234.json in 9ms
+[2025-06-01T16:53:45Z] Batch processing complete:
+[2025-06-01T16:53:45Z] - Processed: 5
+[2025-06-01T16:53:45Z] - Failed: 0
+[2025-06-01T16:53:45Z] - Total time: 72ms
+[2025-06-01T16:53:45Z] - Average time per message: 14ms
+[2025-06-01T16:53:45Z] Processing batch of 5 messages...
+[2025-06-01T16:53:45Z] Processed batch_test_235.json in 10ms
+[2025-06-01T16:53:45Z] Processed batch_test_236.json in 10ms
+[2025-06-01T16:53:45Z] Processed batch_test_237.json in 10ms
+[2025-06-01T16:53:45Z] Processed batch_test_238.json in 9ms
+[2025-06-01T16:53:45Z] Processed batch_test_239.json in 10ms
+[2025-06-01T16:53:45Z] Batch processing complete:
+[2025-06-01T16:53:45Z] - Processed: 5
+[2025-06-01T16:53:45Z] - Failed: 0
+[2025-06-01T16:53:45Z] - Total time: 71ms
+[2025-06-01T16:53:45Z] - Average time per message: 14ms
+[2025-06-01T16:53:46Z] Processing batch of 5 messages...
+[2025-06-01T16:53:46Z] Processed batch_test_240.json in 10ms
+[2025-06-01T16:53:46Z] Processed batch_test_241.json in 10ms
+[2025-06-01T16:53:46Z] Processed batch_test_242.json in 10ms
+[2025-06-01T16:53:46Z] Processed batch_test_243.json in 9ms
+[2025-06-01T16:53:46Z] Processed batch_test_244.json in 10ms
+[2025-06-01T16:53:46Z] Batch processing complete:
+[2025-06-01T16:53:46Z] - Processed: 5
+[2025-06-01T16:53:46Z] - Failed: 0
+[2025-06-01T16:53:46Z] - Total time: 70ms
+[2025-06-01T16:53:46Z] - Average time per message: 14ms
+[2025-06-01T16:53:46Z] Processing batch of 5 messages...
+[2025-06-01T16:53:46Z] Processed batch_test_245.json in 10ms
+[2025-06-01T16:53:46Z] Processed batch_test_246.json in 10ms
+[2025-06-01T16:53:46Z] Processed batch_test_247.json in 10ms
+[2025-06-01T16:53:46Z] Processed batch_test_248.json in 10ms
+[2025-06-01T16:53:46Z] Processed batch_test_249.json in 9ms
+[2025-06-01T16:53:46Z] Batch processing complete:
+[2025-06-01T16:53:46Z] - Processed: 5
+[2025-06-01T16:53:46Z] - Failed: 0
+[2025-06-01T16:53:46Z] - Total time: 70ms
+[2025-06-01T16:53:46Z] - Average time per message: 14ms
+[2025-06-01T16:53:46Z] Processing batch of 5 messages...
+[2025-06-01T16:53:46Z] Processed batch_test_250.json in 10ms
+[2025-06-01T16:53:46Z] Processed batch_test_251.json in 9ms
+[2025-06-01T16:53:46Z] Processed batch_test_252.json in 9ms
+[2025-06-01T16:53:46Z] Processed batch_test_253.json in 9ms
+[2025-06-01T16:53:46Z] Processed batch_test_254.json in 10ms
+[2025-06-01T16:53:46Z] Batch processing complete:
+[2025-06-01T16:53:46Z] - Processed: 5
+[2025-06-01T16:53:46Z] - Failed: 0
+[2025-06-01T16:53:46Z] - Total time: 68ms
+[2025-06-01T16:53:46Z] - Average time per message: 13ms
+[2025-06-01T16:53:46Z] Processing batch of 5 messages...
+[2025-06-01T16:53:46Z] Processed batch_test_255.json in 10ms
+[2025-06-01T16:53:46Z] Processed batch_test_256.json in 10ms
+[2025-06-01T16:53:46Z] Processed batch_test_257.json in 11ms
+[2025-06-01T16:53:46Z] Processed batch_test_258.json in 10ms
+[2025-06-01T16:53:46Z] Processed batch_test_259.json in 10ms
+[2025-06-01T16:53:46Z] Batch processing complete:
+[2025-06-01T16:53:46Z] - Processed: 5
+[2025-06-01T16:53:46Z] - Failed: 0
+[2025-06-01T16:53:46Z] - Total time: 73ms
+[2025-06-01T16:53:46Z] - Average time per message: 14ms
+[2025-06-01T16:53:46Z] Processing batch of 5 messages...
+[2025-06-01T16:53:47Z] Processed batch_test_260.json in 10ms
+[2025-06-01T16:53:47Z] Processed batch_test_261.json in 10ms
+[2025-06-01T16:53:47Z] Processed batch_test_262.json in 10ms
+[2025-06-01T16:53:47Z] Processed batch_test_263.json in 9ms
+[2025-06-01T16:53:47Z] Processed batch_test_264.json in 9ms
+[2025-06-01T16:53:47Z] Batch processing complete:
+[2025-06-01T16:53:47Z] - Processed: 5
+[2025-06-01T16:53:47Z] - Failed: 0
+[2025-06-01T16:53:47Z] - Total time: 69ms
+[2025-06-01T16:53:47Z] - Average time per message: 13ms
+[2025-06-01T16:53:47Z] Processing batch of 5 messages...
+[2025-06-01T16:53:47Z] Processed batch_test_265.json in 10ms
+[2025-06-01T16:53:47Z] Processed batch_test_266.json in 10ms
+[2025-06-01T16:53:47Z] Processed batch_test_267.json in 10ms
+[2025-06-01T16:53:47Z] Processed batch_test_268.json in 10ms
+[2025-06-01T16:53:47Z] Processed batch_test_269.json in 10ms
+[2025-06-01T16:53:47Z] Batch processing complete:
+[2025-06-01T16:53:47Z] - Processed: 5
+[2025-06-01T16:53:47Z] - Failed: 0
+[2025-06-01T16:53:47Z] - Total time: 71ms
+[2025-06-01T16:53:47Z] - Average time per message: 14ms
+[2025-06-01T16:53:47Z] Processing batch of 5 messages...
+[2025-06-01T16:53:47Z] Processed batch_test_270.json in 10ms
+[2025-06-01T16:53:47Z] Processed batch_test_271.json in 9ms
+[2025-06-01T16:53:47Z] Processed batch_test_272.json in 10ms
+[2025-06-01T16:53:47Z] Processed batch_test_273.json in 10ms
+[2025-06-01T16:53:47Z] Processed batch_test_274.json in 10ms
+[2025-06-01T16:53:47Z] Batch processing complete:
+[2025-06-01T16:53:47Z] - Processed: 5
+[2025-06-01T16:53:47Z] - Failed: 0
+[2025-06-01T16:53:47Z] - Total time: 70ms
+[2025-06-01T16:53:47Z] - Average time per message: 14ms
+[2025-06-01T16:53:47Z] Processing batch of 5 messages...
+[2025-06-01T16:53:47Z] Processed batch_test_275.json in 10ms
+[2025-06-01T16:53:47Z] Processed batch_test_276.json in 10ms
+[2025-06-01T16:53:47Z] Processed batch_test_277.json in 10ms
+[2025-06-01T16:53:47Z] Processed batch_test_278.json in 9ms
+[2025-06-01T16:53:47Z] Processed batch_test_279.json in 10ms
+[2025-06-01T16:53:47Z] Batch processing complete:
+[2025-06-01T16:53:47Z] - Processed: 5
+[2025-06-01T16:53:47Z] - Failed: 0
+[2025-06-01T16:53:47Z] - Total time: 69ms
+[2025-06-01T16:53:47Z] - Average time per message: 13ms
+[2025-06-01T16:53:48Z] Processing batch of 5 messages...
+[2025-06-01T16:53:48Z] Processed batch_test_280.json in 10ms
+[2025-06-01T16:53:48Z] Processed batch_test_281.json in 11ms
+[2025-06-01T16:53:48Z] Processed batch_test_282.json in 10ms
+[2025-06-01T16:53:48Z] Processed batch_test_283.json in 10ms
+[2025-06-01T16:53:48Z] Processed batch_test_284.json in 10ms
+[2025-06-01T16:53:48Z] Batch processing complete:
+[2025-06-01T16:53:48Z] - Processed: 5
+[2025-06-01T16:53:48Z] - Failed: 0
+[2025-06-01T16:53:48Z] - Total time: 73ms
+[2025-06-01T16:53:48Z] - Average time per message: 14ms
+[2025-06-01T16:53:48Z] Processing batch of 5 messages...
+[2025-06-01T16:53:48Z] Processed batch_test_285.json in 9ms
+[2025-06-01T16:53:48Z] Processed batch_test_286.json in 10ms
+[2025-06-01T16:53:48Z] Processed batch_test_287.json in 9ms
+[2025-06-01T16:53:48Z] Processed batch_test_288.json in 9ms
+[2025-06-01T16:53:48Z] Processed batch_test_289.json in 10ms
+[2025-06-01T16:53:48Z] Batch processing complete:
+[2025-06-01T16:53:48Z] - Processed: 5
+[2025-06-01T16:53:48Z] - Failed: 0
+[2025-06-01T16:53:48Z] - Total time: 69ms
+[2025-06-01T16:53:48Z] - Average time per message: 13ms
+[2025-06-01T16:53:48Z] Processing batch of 5 messages...
+[2025-06-01T16:53:48Z] Processed batch_test_290.json in 11ms
+[2025-06-01T16:53:48Z] Processed batch_test_291.json in 10ms
+[2025-06-01T16:53:48Z] Processed batch_test_292.json in 10ms
+[2025-06-01T16:53:48Z] Processed batch_test_293.json in 9ms
+[2025-06-01T16:53:48Z] Processed batch_test_294.json in 9ms
+[2025-06-01T16:53:48Z] Batch processing complete:
+[2025-06-01T16:53:48Z] - Processed: 5
+[2025-06-01T16:53:48Z] - Failed: 0
+[2025-06-01T16:53:48Z] - Total time: 71ms
+[2025-06-01T16:53:48Z] - Average time per message: 14ms
+[2025-06-01T16:53:48Z] Processing batch of 5 messages...
+[2025-06-01T16:53:48Z] Processed batch_test_295.json in 10ms
+[2025-06-01T16:53:48Z] Processed batch_test_296.json in 10ms
+[2025-06-01T16:53:48Z] Processed batch_test_297.json in 11ms
+[2025-06-01T16:53:48Z] Processed batch_test_298.json in 10ms
+[2025-06-01T16:53:48Z] Processed batch_test_299.json in 9ms
+[2025-06-01T16:53:48Z] Batch processing complete:
+[2025-06-01T16:53:48Z] - Processed: 5
+[2025-06-01T16:53:48Z] - Failed: 0
+[2025-06-01T16:53:48Z] - Total time: 70ms
+[2025-06-01T16:53:48Z] - Average time per message: 14ms
+[2025-06-01T16:53:49Z] Processing batch of 5 messages...
+[2025-06-01T16:53:49Z] Processed batch_test_300.json in 10ms
+[2025-06-01T16:53:49Z] Processed batch_test_301.json in 10ms
+[2025-06-01T16:53:49Z] Processed batch_test_302.json in 10ms
+[2025-06-01T16:53:49Z] Processed batch_test_303.json in 9ms
+[2025-06-01T16:53:49Z] Processed batch_test_304.json in 9ms
+[2025-06-01T16:53:49Z] Batch processing complete:
+[2025-06-01T16:53:49Z] - Processed: 5
+[2025-06-01T16:53:49Z] - Failed: 0
+[2025-06-01T16:53:49Z] - Total time: 70ms
+[2025-06-01T16:53:49Z] - Average time per message: 14ms
+[2025-06-01T16:53:49Z] Processing batch of 5 messages...
+[2025-06-01T16:53:49Z] Processed batch_test_305.json in 10ms
+[2025-06-01T16:53:49Z] Processed batch_test_306.json in 10ms
+[2025-06-01T16:53:49Z] Processed batch_test_307.json in 10ms
+[2025-06-01T16:53:49Z] Processed batch_test_308.json in 9ms
+[2025-06-01T16:53:49Z] Processed batch_test_309.json in 9ms
+[2025-06-01T16:53:49Z] Batch processing complete:
+[2025-06-01T16:53:49Z] - Processed: 5
+[2025-06-01T16:53:49Z] - Failed: 0
+[2025-06-01T16:53:49Z] - Total time: 69ms
+[2025-06-01T16:53:49Z] - Average time per message: 13ms
+[2025-06-01T16:53:49Z] Processing batch of 5 messages...
+[2025-06-01T16:53:49Z] Processed batch_test_310.json in 10ms
+[2025-06-01T16:53:49Z] Processed batch_test_311.json in 10ms
+[2025-06-01T16:53:49Z] Processed batch_test_312.json in 9ms
+[2025-06-01T16:53:49Z] Processed batch_test_313.json in 9ms
+[2025-06-01T16:53:49Z] Processed batch_test_314.json in 10ms
+[2025-06-01T16:53:49Z] Batch processing complete:
+[2025-06-01T16:53:49Z] - Processed: 5
+[2025-06-01T16:53:49Z] - Failed: 0
+[2025-06-01T16:53:49Z] - Total time: 69ms
+[2025-06-01T16:53:49Z] - Average time per message: 13ms
+[2025-06-01T16:53:49Z] Processing batch of 5 messages...
+[2025-06-01T16:53:49Z] Processed batch_test_315.json in 10ms
+[2025-06-01T16:53:49Z] Processed batch_test_316.json in 10ms
+[2025-06-01T16:53:49Z] Processed batch_test_317.json in 10ms
+[2025-06-01T16:53:49Z] Processed batch_test_318.json in 9ms
+[2025-06-01T16:53:49Z] Processed batch_test_319.json in 10ms
+[2025-06-01T16:53:49Z] Batch processing complete:
+[2025-06-01T16:53:49Z] - Processed: 5
+[2025-06-01T16:53:49Z] - Failed: 0
+[2025-06-01T16:53:49Z] - Total time: 69ms
+[2025-06-01T16:53:49Z] - Average time per message: 13ms
+[2025-06-01T16:53:50Z] Processing batch of 5 messages...
+[2025-06-01T16:53:50Z] Processed batch_test_320.json in 10ms
+[2025-06-01T16:53:50Z] Processed batch_test_321.json in 10ms
+[2025-06-01T16:53:50Z] Processed batch_test_322.json in 10ms
+[2025-06-01T16:53:50Z] Processed batch_test_323.json in 9ms
+[2025-06-01T16:53:50Z] Processed batch_test_324.json in 10ms
+[2025-06-01T16:53:50Z] Batch processing complete:
+[2025-06-01T16:53:50Z] - Processed: 5
+[2025-06-01T16:53:50Z] - Failed: 0
+[2025-06-01T16:53:50Z] - Total time: 69ms
+[2025-06-01T16:53:50Z] - Average time per message: 13ms
+[2025-06-01T16:53:50Z] Processing batch of 5 messages...
+[2025-06-01T16:53:50Z] Processed batch_test_325.json in 11ms
+[2025-06-01T16:53:50Z] Processed batch_test_326.json in 10ms
+[2025-06-01T16:53:50Z] Processed batch_test_327.json in 10ms
+[2025-06-01T16:53:50Z] Processed batch_test_328.json in 10ms
+[2025-06-01T16:53:50Z] Processed batch_test_329.json in 9ms
+[2025-06-01T16:53:50Z] Batch processing complete:
+[2025-06-01T16:53:50Z] - Processed: 5
+[2025-06-01T16:53:50Z] - Failed: 0
+[2025-06-01T16:53:50Z] - Total time: 72ms
+[2025-06-01T16:53:50Z] - Average time per message: 14ms
+[2025-06-01T16:53:50Z] Processing batch of 5 messages...
+[2025-06-01T16:53:50Z] Processed batch_test_330.json in 11ms
+[2025-06-01T16:53:50Z] Processed batch_test_331.json in 12ms
+[2025-06-01T16:53:50Z] Processed batch_test_332.json in 11ms
+[2025-06-01T16:53:50Z] Processed batch_test_333.json in 10ms
+[2025-06-01T16:53:50Z] Processed batch_test_334.json in 10ms
+[2025-06-01T16:53:50Z] Batch processing complete:
+[2025-06-01T16:53:50Z] - Processed: 5
+[2025-06-01T16:53:50Z] - Failed: 0
+[2025-06-01T16:53:50Z] - Total time: 74ms
+[2025-06-01T16:53:50Z] - Average time per message: 14ms
+[2025-06-01T16:53:50Z] Processing batch of 5 messages...
+[2025-06-01T16:53:50Z] Processed batch_test_335.json in 9ms
+[2025-06-01T16:53:50Z] Processed batch_test_336.json in 10ms
+[2025-06-01T16:53:50Z] Processed batch_test_337.json in 10ms
+[2025-06-01T16:53:50Z] Processed batch_test_338.json in 9ms
+[2025-06-01T16:53:50Z] Processed batch_test_339.json in 9ms
+[2025-06-01T16:53:50Z] Batch processing complete:
+[2025-06-01T16:53:50Z] - Processed: 5
+[2025-06-01T16:53:50Z] - Failed: 0
+[2025-06-01T16:53:50Z] - Total time: 68ms
+[2025-06-01T16:53:50Z] - Average time per message: 13ms
+[2025-06-01T16:53:51Z] Processing batch of 5 messages...
+[2025-06-01T16:53:51Z] Processed batch_test_340.json in 9ms
+[2025-06-01T16:53:51Z] Processed batch_test_341.json in 10ms
+[2025-06-01T16:53:51Z] Processed batch_test_342.json in 10ms
+[2025-06-01T16:53:51Z] Processed batch_test_343.json in 9ms
+[2025-06-01T16:53:51Z] Processed batch_test_344.json in 10ms
+[2025-06-01T16:53:51Z] Batch processing complete:
+[2025-06-01T16:53:51Z] - Processed: 5
+[2025-06-01T16:53:51Z] - Failed: 0
+[2025-06-01T16:53:51Z] - Total time: 68ms
+[2025-06-01T16:53:51Z] - Average time per message: 13ms
+[2025-06-01T16:53:51Z] Processing batch of 5 messages...
+[2025-06-01T16:53:51Z] Processed batch_test_345.json in 10ms
+[2025-06-01T16:53:51Z] Processed batch_test_346.json in 9ms
+[2025-06-01T16:53:51Z] Processed batch_test_347.json in 9ms
+[2025-06-01T16:53:51Z] Processed batch_test_348.json in 9ms
+[2025-06-01T16:53:51Z] Processed batch_test_349.json in 11ms
+[2025-06-01T16:53:51Z] Batch processing complete:
+[2025-06-01T16:53:51Z] - Processed: 5
+[2025-06-01T16:53:51Z] - Failed: 0
+[2025-06-01T16:53:51Z] - Total time: 69ms
+[2025-06-01T16:53:51Z] - Average time per message: 13ms
+[2025-06-01T16:53:51Z] Processing batch of 5 messages...
+[2025-06-01T16:53:51Z] Processed batch_test_350.json in 10ms
+[2025-06-01T16:53:51Z] Processed batch_test_351.json in 11ms
+[2025-06-01T16:53:51Z] Processed batch_test_352.json in 11ms
+[2025-06-01T16:53:51Z] Processed batch_test_353.json in 10ms
+[2025-06-01T16:53:51Z] Processed batch_test_354.json in 9ms
+[2025-06-01T16:53:51Z] Batch processing complete:
+[2025-06-01T16:53:51Z] - Processed: 5
+[2025-06-01T16:53:51Z] - Failed: 0
+[2025-06-01T16:53:51Z] - Total time: 72ms
+[2025-06-01T16:53:51Z] - Average time per message: 14ms
+[2025-06-01T16:53:51Z] Processing batch of 5 messages...
+[2025-06-01T16:53:51Z] Processed batch_test_355.json in 11ms
+[2025-06-01T16:53:51Z] Processed batch_test_356.json in 10ms
+[2025-06-01T16:53:51Z] Processed batch_test_357.json in 10ms
+[2025-06-01T16:53:51Z] Processed batch_test_358.json in 10ms
+[2025-06-01T16:53:51Z] Processed batch_test_359.json in 9ms
+[2025-06-01T16:53:51Z] Batch processing complete:
+[2025-06-01T16:53:51Z] - Processed: 5
+[2025-06-01T16:53:51Z] - Failed: 0
+[2025-06-01T16:53:51Z] - Total time: 71ms
+[2025-06-01T16:53:51Z] - Average time per message: 14ms
+[2025-06-01T16:53:52Z] Processing batch of 5 messages...
+[2025-06-01T16:53:52Z] Processed batch_test_360.json in 10ms
+[2025-06-01T16:53:52Z] Processed batch_test_361.json in 11ms
+[2025-06-01T16:53:52Z] Processed batch_test_362.json in 12ms
+[2025-06-01T16:53:52Z] Processed batch_test_363.json in 9ms
+[2025-06-01T16:53:52Z] Processed batch_test_364.json in 10ms
+[2025-06-01T16:53:52Z] Batch processing complete:
+[2025-06-01T16:53:52Z] - Processed: 5
+[2025-06-01T16:53:52Z] - Failed: 0
+[2025-06-01T16:53:52Z] - Total time: 75ms
+[2025-06-01T16:53:52Z] - Average time per message: 15ms
+[2025-06-01T16:53:52Z] Processing batch of 5 messages...
+[2025-06-01T16:53:52Z] Processed batch_test_365.json in 10ms
+[2025-06-01T16:53:52Z] Processed batch_test_366.json in 11ms
+[2025-06-01T16:53:52Z] Processed batch_test_367.json in 10ms
+[2025-06-01T16:53:52Z] Processed batch_test_368.json in 10ms
+[2025-06-01T16:53:52Z] Processed batch_test_369.json in 10ms
+[2025-06-01T16:53:52Z] Batch processing complete:
+[2025-06-01T16:53:52Z] - Processed: 5
+[2025-06-01T16:53:52Z] - Failed: 0
+[2025-06-01T16:53:52Z] - Total time: 73ms
+[2025-06-01T16:53:52Z] - Average time per message: 14ms
+[2025-06-01T16:53:52Z] Processing batch of 5 messages...
+[2025-06-01T16:53:52Z] Processed batch_test_370.json in 10ms
+[2025-06-01T16:53:52Z] Processed batch_test_371.json in 10ms
+[2025-06-01T16:53:52Z] Processed batch_test_372.json in 10ms
+[2025-06-01T16:53:52Z] Processed batch_test_373.json in 9ms
+[2025-06-01T16:53:52Z] Processed batch_test_374.json in 9ms
+[2025-06-01T16:53:52Z] Batch processing complete:
+[2025-06-01T16:53:52Z] - Processed: 5
+[2025-06-01T16:53:52Z] - Failed: 0
+[2025-06-01T16:53:52Z] - Total time: 69ms
+[2025-06-01T16:53:52Z] - Average time per message: 13ms
+[2025-06-01T16:53:52Z] Processing batch of 5 messages...
+[2025-06-01T16:53:52Z] Processed batch_test_375.json in 9ms
+[2025-06-01T16:53:52Z] Processed batch_test_376.json in 9ms
+[2025-06-01T16:53:52Z] Processed batch_test_377.json in 11ms
+[2025-06-01T16:53:52Z] Processed batch_test_378.json in 9ms
+[2025-06-01T16:53:52Z] Processed batch_test_379.json in 9ms
+[2025-06-01T16:53:52Z] Batch processing complete:
+[2025-06-01T16:53:52Z] - Processed: 5
+[2025-06-01T16:53:52Z] - Failed: 0
+[2025-06-01T16:53:52Z] - Total time: 69ms
+[2025-06-01T16:53:52Z] - Average time per message: 13ms
+[2025-06-01T16:53:53Z] Processing batch of 5 messages...
+[2025-06-01T16:53:53Z] Processed batch_test_380.json in 10ms
+[2025-06-01T16:53:53Z] Processed batch_test_381.json in 9ms
+[2025-06-01T16:53:53Z] Processed batch_test_382.json in 10ms
+[2025-06-01T16:53:53Z] Processed batch_test_383.json in 10ms
+[2025-06-01T16:53:53Z] Processed batch_test_384.json in 10ms
+[2025-06-01T16:53:53Z] Batch processing complete:
+[2025-06-01T16:53:53Z] - Processed: 5
+[2025-06-01T16:53:53Z] - Failed: 0
+[2025-06-01T16:53:53Z] - Total time: 71ms
+[2025-06-01T16:53:53Z] - Average time per message: 14ms
+[2025-06-01T16:53:53Z] Processing batch of 5 messages...
+[2025-06-01T16:53:53Z] Processed batch_test_385.json in 11ms
+[2025-06-01T16:53:53Z] Processed batch_test_386.json in 10ms
+[2025-06-01T16:53:53Z] Processed batch_test_387.json in 10ms
+[2025-06-01T16:53:53Z] Processed batch_test_388.json in 11ms
+[2025-06-01T16:53:53Z] Processed batch_test_389.json in 11ms
+[2025-06-01T16:53:53Z] Batch processing complete:
+[2025-06-01T16:53:53Z] - Processed: 5
+[2025-06-01T16:53:53Z] - Failed: 0
+[2025-06-01T16:53:53Z] - Total time: 76ms
+[2025-06-01T16:53:53Z] - Average time per message: 15ms
+[2025-06-01T16:53:53Z] Processing batch of 5 messages...
+[2025-06-01T16:53:53Z] Processed batch_test_390.json in 11ms
+[2025-06-01T16:53:53Z] Processed batch_test_391.json in 11ms
+[2025-06-01T16:53:53Z] Processed batch_test_392.json in 10ms
+[2025-06-01T16:53:53Z] Processed batch_test_393.json in 11ms
+[2025-06-01T16:53:53Z] Processed batch_test_394.json in 10ms
+[2025-06-01T16:53:53Z] Batch processing complete:
+[2025-06-01T16:53:53Z] - Processed: 5
+[2025-06-01T16:53:53Z] - Failed: 0
+[2025-06-01T16:53:53Z] - Total time: 74ms
+[2025-06-01T16:53:53Z] - Average time per message: 14ms
+[2025-06-01T16:53:53Z] Processing batch of 5 messages...
+[2025-06-01T16:53:53Z] Processed batch_test_395.json in 10ms
+[2025-06-01T16:53:53Z] Processed batch_test_396.json in 11ms
+[2025-06-01T16:53:53Z] Processed batch_test_397.json in 10ms
+[2025-06-01T16:53:53Z] Processed batch_test_398.json in 9ms
+[2025-06-01T16:53:53Z] Processed batch_test_399.json in 9ms
+[2025-06-01T16:53:53Z] Batch processing complete:
+[2025-06-01T16:53:53Z] - Processed: 5
+[2025-06-01T16:53:53Z] - Failed: 0
+[2025-06-01T16:53:53Z] - Total time: 72ms
+[2025-06-01T16:53:53Z] - Average time per message: 14ms
+[2025-06-01T16:53:54Z] Processing batch of 5 messages...
+[2025-06-01T16:53:54Z] Processed batch_test_400.json in 10ms
+[2025-06-01T16:53:54Z] Processed batch_test_401.json in 10ms
+[2025-06-01T16:53:54Z] Processed batch_test_402.json in 10ms
+[2025-06-01T16:53:54Z] Processed batch_test_403.json in 9ms
+[2025-06-01T16:53:54Z] Processed batch_test_404.json in 9ms
+[2025-06-01T16:53:54Z] Batch processing complete:
+[2025-06-01T16:53:54Z] - Processed: 5
+[2025-06-01T16:53:54Z] - Failed: 0
+[2025-06-01T16:53:54Z] - Total time: 69ms
+[2025-06-01T16:53:54Z] - Average time per message: 13ms
+[2025-06-01T16:53:54Z] Processing batch of 5 messages...
+[2025-06-01T16:53:54Z] Processed batch_test_405.json in 10ms
+[2025-06-01T16:53:54Z] Processed batch_test_406.json in 10ms
+[2025-06-01T16:53:54Z] Processed batch_test_407.json in 10ms
+[2025-06-01T16:53:54Z] Processed batch_test_408.json in 10ms
+[2025-06-01T16:53:54Z] Processed batch_test_409.json in 10ms
+[2025-06-01T16:53:54Z] Batch processing complete:
+[2025-06-01T16:53:54Z] - Processed: 5
+[2025-06-01T16:53:54Z] - Failed: 0
+[2025-06-01T16:53:54Z] - Total time: 72ms
+[2025-06-01T16:53:54Z] - Average time per message: 14ms
+[2025-06-01T16:53:54Z] Processing batch of 5 messages...
+[2025-06-01T16:53:54Z] Processed batch_test_410.json in 9ms
+[2025-06-01T16:53:54Z] Processed batch_test_411.json in 10ms
+[2025-06-01T16:53:54Z] Processed batch_test_412.json in 10ms
+[2025-06-01T16:53:54Z] Processed batch_test_413.json in 9ms
+[2025-06-01T16:53:54Z] Processed batch_test_414.json in 10ms
+[2025-06-01T16:53:54Z] Batch processing complete:
+[2025-06-01T16:53:54Z] - Processed: 5
+[2025-06-01T16:53:54Z] - Failed: 0
+[2025-06-01T16:53:54Z] - Total time: 71ms
+[2025-06-01T16:53:54Z] - Average time per message: 14ms
+[2025-06-01T16:53:54Z] Processing batch of 5 messages...
+[2025-06-01T16:53:54Z] Processed batch_test_415.json in 10ms
+[2025-06-01T16:53:54Z] Processed batch_test_416.json in 10ms
+[2025-06-01T16:53:54Z] Processed batch_test_417.json in 9ms
+[2025-06-01T16:53:54Z] Processed batch_test_418.json in 9ms
+[2025-06-01T16:53:54Z] Processed batch_test_419.json in 9ms
+[2025-06-01T16:53:54Z] Batch processing complete:
+[2025-06-01T16:53:54Z] - Processed: 5
+[2025-06-01T16:53:54Z] - Failed: 0
+[2025-06-01T16:53:54Z] - Total time: 68ms
+[2025-06-01T16:53:54Z] - Average time per message: 13ms
+[2025-06-01T16:53:55Z] Processing batch of 5 messages...
+[2025-06-01T16:53:55Z] Processed batch_test_420.json in 10ms
+[2025-06-01T16:53:55Z] Processed batch_test_421.json in 10ms
+[2025-06-01T16:53:55Z] Processed batch_test_422.json in 9ms
+[2025-06-01T16:53:55Z] Processed batch_test_423.json in 9ms
+[2025-06-01T16:53:55Z] Processed batch_test_424.json in 10ms
+[2025-06-01T16:53:55Z] Batch processing complete:
+[2025-06-01T16:53:55Z] - Processed: 5
+[2025-06-01T16:53:55Z] - Failed: 0
+[2025-06-01T16:53:55Z] - Total time: 69ms
+[2025-06-01T16:53:55Z] - Average time per message: 13ms
+[2025-06-01T16:53:55Z] Processing batch of 5 messages...
+[2025-06-01T16:53:55Z] Processed batch_test_425.json in 9ms
+[2025-06-01T16:53:55Z] Processed batch_test_426.json in 10ms
+[2025-06-01T16:53:55Z] Processed batch_test_427.json in 10ms
+[2025-06-01T16:53:55Z] Processed batch_test_428.json in 9ms
+[2025-06-01T16:53:55Z] Processed batch_test_429.json in 9ms
+[2025-06-01T16:53:55Z] Batch processing complete:
+[2025-06-01T16:53:55Z] - Processed: 5
+[2025-06-01T16:53:55Z] - Failed: 0
+[2025-06-01T16:53:55Z] - Total time: 67ms
+[2025-06-01T16:53:55Z] - Average time per message: 13ms
+[2025-06-01T16:53:55Z] Processing batch of 5 messages...
+[2025-06-01T16:53:55Z] Processed batch_test_430.json in 10ms
+[2025-06-01T16:53:55Z] Processed batch_test_431.json in 9ms
+[2025-06-01T16:53:55Z] Processed batch_test_432.json in 10ms
+[2025-06-01T16:53:55Z] Processed batch_test_433.json in 10ms
+[2025-06-01T16:53:55Z] Processed batch_test_434.json in 9ms
+[2025-06-01T16:53:55Z] Batch processing complete:
+[2025-06-01T16:53:55Z] - Processed: 5
+[2025-06-01T16:53:55Z] - Failed: 0
+[2025-06-01T16:53:55Z] - Total time: 69ms
+[2025-06-01T16:53:55Z] - Average time per message: 13ms
+[2025-06-01T16:53:55Z] Processing batch of 5 messages...
+[2025-06-01T16:53:55Z] Processed batch_test_435.json in 10ms
+[2025-06-01T16:53:55Z] Processed batch_test_436.json in 9ms
+[2025-06-01T16:53:55Z] Processed batch_test_437.json in 9ms
+[2025-06-01T16:53:55Z] Processed batch_test_438.json in 9ms
+[2025-06-01T16:53:56Z] Processed batch_test_439.json in 10ms
+[2025-06-01T16:53:56Z] Batch processing complete:
+[2025-06-01T16:53:56Z] - Processed: 5
+[2025-06-01T16:53:56Z] - Failed: 0
+[2025-06-01T16:53:56Z] - Total time: 68ms
+[2025-06-01T16:53:56Z] - Average time per message: 13ms
+[2025-06-01T16:53:56Z] Processing batch of 5 messages...
+[2025-06-01T16:53:56Z] Processed batch_test_440.json in 10ms
+[2025-06-01T16:53:56Z] Processed batch_test_441.json in 9ms
+[2025-06-01T16:53:56Z] Processed batch_test_442.json in 10ms
+[2025-06-01T16:53:56Z] Processed batch_test_443.json in 9ms
+[2025-06-01T16:53:56Z] Processed batch_test_444.json in 9ms
+[2025-06-01T16:53:56Z] Batch processing complete:
+[2025-06-01T16:53:56Z] - Processed: 5
+[2025-06-01T16:53:56Z] - Failed: 0
+[2025-06-01T16:53:56Z] - Total time: 69ms
+[2025-06-01T16:53:56Z] - Average time per message: 13ms
+[2025-06-01T16:53:56Z] Processing batch of 5 messages...
+[2025-06-01T16:53:56Z] Processed batch_test_445.json in 10ms
+[2025-06-01T16:53:56Z] Processed batch_test_446.json in 10ms
+[2025-06-01T16:53:56Z] Processed batch_test_447.json in 10ms
+[2025-06-01T16:53:56Z] Processed batch_test_448.json in 9ms
+[2025-06-01T16:53:56Z] Processed batch_test_449.json in 9ms
+[2025-06-01T16:53:56Z] Batch processing complete:
+[2025-06-01T16:53:56Z] - Processed: 5
+[2025-06-01T16:53:56Z] - Failed: 0
+[2025-06-01T16:53:56Z] - Total time: 70ms
+[2025-06-01T16:53:56Z] - Average time per message: 14ms
+[2025-06-01T16:53:56Z] Processing batch of 5 messages...
+[2025-06-01T16:53:56Z] Processed batch_test_450.json in 10ms
+[2025-06-01T16:53:56Z] Processed batch_test_451.json in 10ms
+[2025-06-01T16:53:56Z] Processed batch_test_452.json in 10ms
+[2025-06-01T16:53:56Z] Processed batch_test_453.json in 9ms
+[2025-06-01T16:53:56Z] Processed batch_test_454.json in 9ms
+[2025-06-01T16:53:56Z] Batch processing complete:
+[2025-06-01T16:53:56Z] - Processed: 5
+[2025-06-01T16:53:56Z] - Failed: 0
+[2025-06-01T16:53:56Z] - Total time: 69ms
+[2025-06-01T16:53:56Z] - Average time per message: 13ms
+[2025-06-01T16:53:56Z] Processing batch of 5 messages...
+[2025-06-01T16:53:56Z] Processed batch_test_455.json in 11ms
+[2025-06-01T16:53:57Z] Processed batch_test_456.json in 9ms
+[2025-06-01T16:53:57Z] Processed batch_test_457.json in 9ms
+[2025-06-01T16:53:57Z] Processed batch_test_458.json in 10ms
+[2025-06-01T16:53:57Z] Processed batch_test_459.json in 9ms
+[2025-06-01T16:53:57Z] Batch processing complete:
+[2025-06-01T16:53:57Z] - Processed: 5
+[2025-06-01T16:53:57Z] - Failed: 0
+[2025-06-01T16:53:57Z] - Total time: 70ms
+[2025-06-01T16:53:57Z] - Average time per message: 14ms
+[2025-06-01T16:53:57Z] Processing batch of 5 messages...
+[2025-06-01T16:53:57Z] Processed batch_test_460.json in 10ms
+[2025-06-01T16:53:57Z] Processed batch_test_461.json in 10ms
+[2025-06-01T16:53:57Z] Processed batch_test_462.json in 10ms
+[2025-06-01T16:53:57Z] Processed batch_test_463.json in 10ms
+[2025-06-01T16:53:57Z] Processed batch_test_464.json in 9ms
+[2025-06-01T16:53:57Z] Batch processing complete:
+[2025-06-01T16:53:57Z] - Processed: 5
+[2025-06-01T16:53:57Z] - Failed: 0
+[2025-06-01T16:53:57Z] - Total time: 70ms
+[2025-06-01T16:53:57Z] - Average time per message: 14ms
+[2025-06-01T16:53:57Z] Processing batch of 5 messages...
+[2025-06-01T16:53:57Z] Processed batch_test_465.json in 10ms
+[2025-06-01T16:53:57Z] Processed batch_test_466.json in 10ms
+[2025-06-01T16:53:57Z] Processed batch_test_467.json in 10ms
+[2025-06-01T16:53:57Z] Processed batch_test_468.json in 9ms
+[2025-06-01T16:53:57Z] Processed batch_test_469.json in 9ms
+[2025-06-01T16:53:57Z] Batch processing complete:
+[2025-06-01T16:53:57Z] - Processed: 5
+[2025-06-01T16:53:57Z] - Failed: 0
+[2025-06-01T16:53:57Z] - Total time: 70ms
+[2025-06-01T16:53:57Z] - Average time per message: 14ms
+[2025-06-01T16:53:57Z] Processing batch of 5 messages...
+[2025-06-01T16:53:57Z] Processed batch_test_470.json in 9ms
+[2025-06-01T16:53:57Z] Processed batch_test_471.json in 11ms
+[2025-06-01T16:53:57Z] Processed batch_test_472.json in 10ms
+[2025-06-01T16:53:57Z] Processed batch_test_473.json in 9ms
+[2025-06-01T16:53:57Z] Processed batch_test_474.json in 10ms
+[2025-06-01T16:53:57Z] Batch processing complete:
+[2025-06-01T16:53:57Z] - Processed: 5
+[2025-06-01T16:53:57Z] - Failed: 0
+[2025-06-01T16:53:57Z] - Total time: 70ms
+[2025-06-01T16:53:57Z] - Average time per message: 14ms
+[2025-06-01T16:53:58Z] Processing batch of 5 messages...
+[2025-06-01T16:53:58Z] Processed batch_test_475.json in 10ms
+[2025-06-01T16:53:58Z] Processed batch_test_476.json in 10ms
+[2025-06-01T16:53:58Z] Processed batch_test_477.json in 10ms
+[2025-06-01T16:53:58Z] Processed batch_test_478.json in 10ms
+[2025-06-01T16:53:58Z] Processed batch_test_479.json in 9ms
+[2025-06-01T16:53:58Z] Batch processing complete:
+[2025-06-01T16:53:58Z] - Processed: 5
+[2025-06-01T16:53:58Z] - Failed: 0
+[2025-06-01T16:53:58Z] - Total time: 70ms
+[2025-06-01T16:53:58Z] - Average time per message: 14ms
+[2025-06-01T16:53:58Z] Processing batch of 5 messages...
+[2025-06-01T16:53:58Z] Processed batch_test_480.json in 10ms
+[2025-06-01T16:53:58Z] Processed batch_test_481.json in 10ms
+[2025-06-01T16:53:58Z] Processed batch_test_482.json in 10ms
+[2025-06-01T16:53:58Z] Processed batch_test_483.json in 9ms
+[2025-06-01T16:53:58Z] Processed batch_test_484.json in 10ms
+[2025-06-01T16:53:58Z] Batch processing complete:
+[2025-06-01T16:53:58Z] - Processed: 5
+[2025-06-01T16:53:58Z] - Failed: 0
+[2025-06-01T16:53:58Z] - Total time: 70ms
+[2025-06-01T16:53:58Z] - Average time per message: 14ms
+[2025-06-01T16:53:58Z] Processing batch of 5 messages...
+[2025-06-01T16:53:58Z] Processed batch_test_485.json in 10ms
+[2025-06-01T16:53:58Z] Processed batch_test_486.json in 9ms
+[2025-06-01T16:53:58Z] Processed batch_test_487.json in 10ms
+[2025-06-01T16:53:58Z] Processed batch_test_488.json in 9ms
+[2025-06-01T16:53:58Z] Processed batch_test_489.json in 11ms
+[2025-06-01T16:53:58Z] Batch processing complete:
+[2025-06-01T16:53:58Z] - Processed: 5
+[2025-06-01T16:53:58Z] - Failed: 0
+[2025-06-01T16:53:58Z] - Total time: 70ms
+[2025-06-01T16:53:58Z] - Average time per message: 14ms
+[2025-06-01T16:53:58Z] Processing batch of 5 messages...
+[2025-06-01T16:53:58Z] Processed batch_test_490.json in 10ms
+[2025-06-01T16:53:58Z] Processed batch_test_491.json in 11ms
+[2025-06-01T16:53:58Z] Processed batch_test_492.json in 9ms
+[2025-06-01T16:53:58Z] Processed batch_test_493.json in 9ms
+[2025-06-01T16:53:58Z] Processed batch_test_494.json in 9ms
+[2025-06-01T16:53:58Z] Batch processing complete:
+[2025-06-01T16:53:58Z] - Processed: 5
+[2025-06-01T16:53:58Z] - Failed: 0
+[2025-06-01T16:53:58Z] - Total time: 69ms
+[2025-06-01T16:53:58Z] - Average time per message: 13ms
+[2025-06-01T16:53:59Z] Processing batch of 5 messages...
+[2025-06-01T16:53:59Z] Processed batch_test_495.json in 9ms
+[2025-06-01T16:53:59Z] Processed batch_test_496.json in 10ms
+[2025-06-01T16:53:59Z] Processed batch_test_497.json in 9ms
+[2025-06-01T16:53:59Z] Processed batch_test_498.json in 11ms
+[2025-06-01T16:53:59Z] Processed batch_test_499.json in 10ms
+[2025-06-01T16:53:59Z] Batch processing complete:
+[2025-06-01T16:53:59Z] - Processed: 5
+[2025-06-01T16:53:59Z] - Failed: 0
+[2025-06-01T16:53:59Z] - Total time: 70ms
+[2025-06-01T16:53:59Z] - Average time per message: 14ms
+[2025-06-01T16:53:59Z] Processing batch of 5 messages...
+[2025-06-01T16:53:59Z] Processed batch_test_500.json in 10ms
+[2025-06-01T16:53:59Z] Processed batch_test_501.json in 9ms
+[2025-06-01T16:53:59Z] Processed batch_test_502.json in 10ms
+[2025-06-01T16:53:59Z] Processed batch_test_503.json in 9ms
+[2025-06-01T16:53:59Z] Processed batch_test_504.json in 10ms
+[2025-06-01T16:53:59Z] Batch processing complete:
+[2025-06-01T16:53:59Z] - Processed: 5
+[2025-06-01T16:53:59Z] - Failed: 0
+[2025-06-01T16:53:59Z] - Total time: 70ms
+[2025-06-01T16:53:59Z] - Average time per message: 14ms
+[2025-06-01T16:53:59Z] Processing batch of 5 messages...
+[2025-06-01T16:53:59Z] Processed batch_test_505.json in 10ms
+[2025-06-01T16:53:59Z] Processed batch_test_506.json in 9ms
+[2025-06-01T16:53:59Z] Processed batch_test_507.json in 10ms
+[2025-06-01T16:53:59Z] Processed batch_test_508.json in 9ms
+[2025-06-01T16:53:59Z] Processed batch_test_509.json in 10ms
+[2025-06-01T16:53:59Z] Batch processing complete:
+[2025-06-01T16:53:59Z] - Processed: 5
+[2025-06-01T16:53:59Z] - Failed: 0
+[2025-06-01T16:53:59Z] - Total time: 71ms
+[2025-06-01T16:53:59Z] - Average time per message: 14ms
+[2025-06-01T16:53:59Z] Processing batch of 5 messages...
+[2025-06-01T16:53:59Z] Processed batch_test_510.json in 10ms
+[2025-06-01T16:53:59Z] Processed batch_test_511.json in 10ms
+[2025-06-01T16:53:59Z] Processed batch_test_512.json in 10ms
+[2025-06-01T16:53:59Z] Processed batch_test_513.json in 9ms
+[2025-06-01T16:54:00Z] Processed batch_test_514.json in 10ms
+[2025-06-01T16:54:00Z] Batch processing complete:
+[2025-06-01T16:54:00Z] - Processed: 5
+[2025-06-01T16:54:00Z] - Failed: 0
+[2025-06-01T16:54:00Z] - Total time: 71ms
+[2025-06-01T16:54:00Z] - Average time per message: 14ms
+[2025-06-01T16:54:00Z] Processing batch of 5 messages...
+[2025-06-01T16:54:00Z] Processed batch_test_515.json in 10ms
+[2025-06-01T16:54:00Z] Processed batch_test_516.json in 10ms
+[2025-06-01T16:54:00Z] Processed batch_test_517.json in 9ms
+[2025-06-01T16:54:00Z] Processed batch_test_518.json in 10ms
+[2025-06-01T16:54:00Z] Processed batch_test_519.json in 9ms
+[2025-06-01T16:54:00Z] Batch processing complete:
+[2025-06-01T16:54:00Z] - Processed: 5
+[2025-06-01T16:54:00Z] - Failed: 0
+[2025-06-01T16:54:00Z] - Total time: 70ms
+[2025-06-01T16:54:00Z] - Average time per message: 14ms
+[2025-06-01T16:54:00Z] Processing batch of 5 messages...
+[2025-06-01T16:54:00Z] Processed batch_test_520.json in 10ms
+[2025-06-01T16:54:00Z] Processed batch_test_521.json in 9ms
+[2025-06-01T16:54:00Z] Processed batch_test_522.json in 10ms
+[2025-06-01T16:54:00Z] Processed batch_test_523.json in 10ms
+[2025-06-01T16:54:00Z] Processed batch_test_524.json in 10ms
+[2025-06-01T16:54:00Z] Batch processing complete:
+[2025-06-01T16:54:00Z] - Processed: 5
+[2025-06-01T16:54:00Z] - Failed: 0
+[2025-06-01T16:54:00Z] - Total time: 69ms
+[2025-06-01T16:54:00Z] - Average time per message: 13ms
+[2025-06-01T16:54:00Z] Processing batch of 5 messages...
+[2025-06-01T16:54:00Z] Processed batch_test_525.json in 10ms
+[2025-06-01T16:54:00Z] Processed batch_test_526.json in 10ms
+[2025-06-01T16:54:00Z] Processed batch_test_527.json in 10ms
+[2025-06-01T16:54:00Z] Processed batch_test_528.json in 9ms
+[2025-06-01T16:54:00Z] Processed batch_test_529.json in 10ms
+[2025-06-01T16:54:00Z] Batch processing complete:
+[2025-06-01T16:54:00Z] - Processed: 5
+[2025-06-01T16:54:00Z] - Failed: 0
+[2025-06-01T16:54:00Z] - Total time: 70ms
+[2025-06-01T16:54:00Z] - Average time per message: 14ms
+[2025-06-01T16:54:00Z] Processing batch of 5 messages...
+[2025-06-01T16:54:01Z] Processed batch_test_530.json in 10ms
+[2025-06-01T16:54:01Z] Processed batch_test_531.json in 10ms
+[2025-06-01T16:54:01Z] Processed batch_test_532.json in 9ms
+[2025-06-01T16:54:01Z] Processed batch_test_533.json in 9ms
+[2025-06-01T16:54:01Z] Processed batch_test_534.json in 13ms
+[2025-06-01T16:54:01Z] Batch processing complete:
+[2025-06-01T16:54:01Z] - Processed: 5
+[2025-06-01T16:54:01Z] - Failed: 0
+[2025-06-01T16:54:01Z] - Total time: 72ms
+[2025-06-01T16:54:01Z] - Average time per message: 14ms
+[2025-06-01T16:54:01Z] Processing batch of 5 messages...
+[2025-06-01T16:54:01Z] Processed batch_test_535.json in 9ms
+[2025-06-01T16:54:01Z] Processed batch_test_536.json in 11ms
+[2025-06-01T16:54:01Z] Processed batch_test_537.json in 10ms
+[2025-06-01T16:54:01Z] Processed batch_test_538.json in 9ms
+[2025-06-01T16:54:01Z] Processed batch_test_539.json in 9ms
+[2025-06-01T16:54:01Z] Batch processing complete:
+[2025-06-01T16:54:01Z] - Processed: 5
+[2025-06-01T16:54:01Z] - Failed: 0
+[2025-06-01T16:54:01Z] - Total time: 70ms
+[2025-06-01T16:54:01Z] - Average time per message: 14ms
+[2025-06-01T16:54:01Z] Processing batch of 5 messages...
+[2025-06-01T16:54:01Z] Processed batch_test_540.json in 10ms
+[2025-06-01T16:54:01Z] Processed batch_test_541.json in 10ms
+[2025-06-01T16:54:01Z] Processed batch_test_542.json in 10ms
+[2025-06-01T16:54:01Z] Processed batch_test_543.json in 10ms
+[2025-06-01T16:54:01Z] Processed batch_test_544.json in 10ms
+[2025-06-01T16:54:01Z] Batch processing complete:
+[2025-06-01T16:54:01Z] - Processed: 5
+[2025-06-01T16:54:01Z] - Failed: 0
+[2025-06-01T16:54:01Z] - Total time: 71ms
+[2025-06-01T16:54:01Z] - Average time per message: 14ms
+[2025-06-01T16:54:01Z] Processing batch of 5 messages...
+[2025-06-01T16:54:01Z] Processed batch_test_545.json in 10ms
+[2025-06-01T16:54:01Z] Processed batch_test_546.json in 11ms
+[2025-06-01T16:54:01Z] Processed batch_test_547.json in 11ms
+[2025-06-01T16:54:01Z] Processed batch_test_548.json in 10ms
+[2025-06-01T16:54:01Z] Processed batch_test_549.json in 9ms
+[2025-06-01T16:54:01Z] Batch processing complete:
+[2025-06-01T16:54:01Z] - Processed: 5
+[2025-06-01T16:54:01Z] - Failed: 0
+[2025-06-01T16:54:01Z] - Total time: 72ms
+[2025-06-01T16:54:01Z] - Average time per message: 14ms
+[2025-06-01T16:54:02Z] Processing batch of 5 messages...
+[2025-06-01T16:54:02Z] Processed batch_test_550.json in 10ms
+[2025-06-01T16:54:02Z] Processed batch_test_551.json in 9ms
+[2025-06-01T16:54:02Z] Processed batch_test_552.json in 10ms
+[2025-06-01T16:54:02Z] Processed batch_test_553.json in 9ms
+[2025-06-01T16:54:02Z] Processed batch_test_554.json in 9ms
+[2025-06-01T16:54:02Z] Batch processing complete:
+[2025-06-01T16:54:02Z] - Processed: 5
+[2025-06-01T16:54:02Z] - Failed: 0
+[2025-06-01T16:54:02Z] - Total time: 67ms
+[2025-06-01T16:54:02Z] - Average time per message: 13ms
+[2025-06-01T16:54:02Z] Processing batch of 5 messages...
+[2025-06-01T16:54:02Z] Processed batch_test_555.json in 9ms
+[2025-06-01T16:54:02Z] Processed batch_test_556.json in 10ms
+[2025-06-01T16:54:02Z] Processed batch_test_557.json in 9ms
+[2025-06-01T16:54:02Z] Processed batch_test_558.json in 9ms
+[2025-06-01T16:54:02Z] Processed batch_test_559.json in 9ms
+[2025-06-01T16:54:02Z] Batch processing complete:
+[2025-06-01T16:54:02Z] - Processed: 5
+[2025-06-01T16:54:02Z] - Failed: 0
+[2025-06-01T16:54:02Z] - Total time: 67ms
+[2025-06-01T16:54:02Z] - Average time per message: 13ms
+[2025-06-01T16:54:02Z] Processing batch of 5 messages...
+[2025-06-01T16:54:02Z] Processed batch_test_560.json in 9ms
+[2025-06-01T16:54:02Z] Processed batch_test_561.json in 10ms
+[2025-06-01T16:54:02Z] Processed batch_test_562.json in 9ms
+[2025-06-01T16:54:02Z] Processed batch_test_563.json in 9ms
+[2025-06-01T16:54:02Z] Processed batch_test_564.json in 10ms
+[2025-06-01T16:54:02Z] Batch processing complete:
+[2025-06-01T16:54:02Z] - Processed: 5
+[2025-06-01T16:54:02Z] - Failed: 0
+[2025-06-01T16:54:02Z] - Total time: 68ms
+[2025-06-01T16:54:02Z] - Average time per message: 13ms
+[2025-06-01T16:54:02Z] Processing batch of 5 messages...
+[2025-06-01T16:54:02Z] Processed batch_test_565.json in 10ms
+[2025-06-01T16:54:02Z] Processed batch_test_566.json in 10ms
+[2025-06-01T16:54:02Z] Processed batch_test_567.json in 10ms
+[2025-06-01T16:54:02Z] Processed batch_test_568.json in 11ms
+[2025-06-01T16:54:02Z] Processed batch_test_569.json in 9ms
+[2025-06-01T16:54:02Z] Batch processing complete:
+[2025-06-01T16:54:02Z] - Processed: 5
+[2025-06-01T16:54:02Z] - Failed: 0
+[2025-06-01T16:54:02Z] - Total time: 72ms
+[2025-06-01T16:54:02Z] - Average time per message: 14ms
+[2025-06-01T16:54:03Z] Processing batch of 5 messages...
+[2025-06-01T16:54:03Z] Processed batch_test_570.json in 10ms
+[2025-06-01T16:54:03Z] Processed batch_test_571.json in 10ms
+[2025-06-01T16:54:03Z] Processed batch_test_572.json in 10ms
+[2025-06-01T16:54:03Z] Processed batch_test_573.json in 9ms
+[2025-06-01T16:54:03Z] Processed batch_test_574.json in 9ms
+[2025-06-01T16:54:03Z] Batch processing complete:
+[2025-06-01T16:54:03Z] - Processed: 5
+[2025-06-01T16:54:03Z] - Failed: 0
+[2025-06-01T16:54:03Z] - Total time: 69ms
+[2025-06-01T16:54:03Z] - Average time per message: 13ms
+[2025-06-01T16:54:03Z] Processing batch of 5 messages...
+[2025-06-01T16:54:03Z] Processed batch_test_575.json in 9ms
+[2025-06-01T16:54:03Z] Processed batch_test_576.json in 9ms
+[2025-06-01T16:54:03Z] Processed batch_test_577.json in 10ms
+[2025-06-01T16:54:03Z] Processed batch_test_578.json in 9ms
+[2025-06-01T16:54:03Z] Processed batch_test_579.json in 10ms
+[2025-06-01T16:54:03Z] Batch processing complete:
+[2025-06-01T16:54:03Z] - Processed: 5
+[2025-06-01T16:54:03Z] - Failed: 0
+[2025-06-01T16:54:03Z] - Total time: 67ms
+[2025-06-01T16:54:03Z] - Average time per message: 13ms
