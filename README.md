@@ -1,4 +1,6 @@
-# MachinaForge (MF_Main)
+# MachinaForge
+
+A private repository for MachinaForge project.
 
 ## Quick Start
 
@@ -1478,4 +1480,9 @@ exec bash  # Reload shell
 bootingup  # Start working
 
 This README provides complete instructions for both new users and existing installations, emphasizing the self-deploying nature of the updated system.
+=======
+# MachinaForge
+
+A private repository for MachinaForge project.
+>>>>>>> 01334c0 (Initial commit)
 
