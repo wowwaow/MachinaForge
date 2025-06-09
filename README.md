@@ -24,6 +24,8 @@ MachinaForge is a sophisticated multi-agent orchestration framework designed for
 4. **Programmer Agent**: Code development and automation
 5. **Systems Architect Agent**: System documentation and architectural oversight
 6. **Analyst Agent**: Quality assurance and validation
+7. **Janitor Agent**: Directory maintenance and cleanup
+8. **Documenter Agent**: Documentation generation and management
 
 ## Directory Structure
 ```
