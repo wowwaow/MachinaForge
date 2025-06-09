@@ -95,7 +95,7 @@ check_sensitive_data() {
     # Skip binary files
     if [ -z "$(file "$file" | grep text)" ]; then
         return 0
-    }
+    fi
 
     # Get only added/modified lines
     local diff_content
