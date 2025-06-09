@@ -12,6 +12,7 @@ This directory contains all active **agent roles** in the MachinaForge system. E
 | **Archivist**          | Maintains historical records, archives completed tasks, ensures traceability.   |
 | **Data_Collector**     | Gathers external and internal data sources, feeds raw data to the system.       |
 | **Janitor**            | Documents active paths, cleans up directories, deletes stale or orphaned files. |
+| **Documenter**         | Generates and maintains system documentation from analysis outputs. |
 | **Overseer**           | Central coordinator, manages agent orchestration, role assignments, objectives. |
 | **Programmer**         | Builds, tests, and deploys system code or logic updates; maintains pipelines.   |
 | **Systems_Architect**  | Designs and updates system architecture, oversees dependency structures.        |

@@ -102,6 +102,38 @@ The MachinaForge agent system consists of specialized autonomous agents working 
 - Provides feedback to Systems Architect
 - Validates Data Collector output
 
+### 7. Janitor Agent
+**Primary Responsibility**: Directory maintenance and cleanup
+
+#### Key Functions:
+- Directory structure maintenance
+- Stale file cleanup
+- Path documentation
+- Log rotation and archival
+- Disk space optimization
+
+#### Interaction Patterns:
+- Reports cleanup actions to Overseer
+- Coordinates with Archivist for archive operations
+- Manages path documentation updates
+- Alerts Overseer to disk space issues
+
+### 8. Documenter Agent
+**Primary Responsibility**: Documentation generation and management
+
+#### Key Functions:
+- Generate documentation from analysis outputs
+- Manage markdown templates
+- Handle cross-references
+- Produce formatted reports
+- Maintain documentation logs
+
+#### Interaction Patterns:
+- Collaborates with Systems Architect for standards
+- Reports progress to Overseer
+- Receives inputs from Analyst
+- Publishes docs to shared directories
+
 ## Agent Lifecycle
 
 ### 1. Initialization
