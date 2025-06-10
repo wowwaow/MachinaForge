@@ -7,9 +7,7 @@ commit management and conflict resolution.
 """
 
 import asyncio
-from datetime import datetime
-from pathlib import Path
-from typing import Dict, List, Optional, Tuple, Union
+from typing import List, Optional, Tuple
 import aiohttp
 import git
 from git.exc import GitCommandError
@@ -19,6 +17,7 @@ from ..config.sync_config import SyncConfig
 from .file_watcher import FileWatcher
 
 logger = logging.getLogger(__name__)
+
 
 class GitHubSyncEngine:
     """Core engine for GitHub repository synchronization."""
@@ -38,10 +37,10 @@ class GitHubSyncEngine:
     async def initialize(self) -> None:
         """
         Initialize the sync engine and establish GitHub connection.
-        
+
         Sets up repository connection, validates credentials, and prepares
         the local environment for synchronization operations.
-        
+
         Raises:
             GitCommandError: If repository initialization fails
             ConnectionError: If GitHub connection cannot be established
@@ -120,6 +119,7 @@ class GitHubSyncEngine:
                 break
             except GitCommandError as e:
                 retries -= 1
+                logger.warning("Push failed: %s; retries left: %s", e, retries)
                 if retries == 0:
                     raise
                 await asyncio.sleep(2 ** (self.config.push_retries - retries))
@@ -127,7 +127,7 @@ class GitHubSyncEngine:
     async def _resolve_conflicts(self) -> None:
         """
         Implement intelligent conflict resolution strategies.
-        
+
         Uses configurable resolution strategies and can involve
         AI-based decision making for complex conflicts.
         """
@@ -135,28 +135,33 @@ class GitHubSyncEngine:
         raise NotImplementedError("Conflict resolution not yet implemented")
 
     async def _generate_commit_message(self, changes: List[Tuple[str, str]]) -> str:
-        """
-        Generate semantic commit messages based on changes.
+        """Generate a simple commit message summarizing file changes."""
+        change_map = {
+            "A": "Added",
+            "M": "Modified",
+            "D": "Deleted",
+            "R": "Renamed",
+        }
 
-        Args:
-            changes: List of changes to analyze
+        details = []
+        for path, change_type in changes:
+            action = change_map.get(change_type.upper(), "Updated")
+            details.append(f"- {action}: {path}")
 
-        Returns:
-            Generated commit message
-        """
-        # TODO: Implement AI-based commit message generation
-        return f"Update {len(changes)} files\n\nAutomatic commit by MachinaForge"
+        summary = f"Update {len(changes)} files"
+        body = "\n".join(details)
+        return f"{summary}\n\n{body}"
 
     async def _validate_github_connection(self) -> None:
         """Validate GitHub credentials and API access."""
         async with aiohttp.ClientSession() as session:
             headers = {
                 "Authorization": f"token {self.config.github_token}",
-                "Accept": "application/vnd.github.v3+json"
+                "Accept": "application/vnd.github.v3+json",
             }
             async with session.get(
                 f"https://api.github.com/repos/{self.config.repository}",
-                headers=headers
+                headers=headers,
             ) as response:
                 if response.status != 200:
                     raise ConnectionError("Failed to validate GitHub credentials")
@@ -165,8 +170,7 @@ class GitHubSyncEngine:
         """Configure branch tracking and ensure proper remote setup."""
         if self.config.branch not in self.repo.heads:
             self.repo.create_head(
-                self.config.branch,
-                self.repo.remote().refs[self.config.branch]
+                self.config.branch, self.repo.remote().refs[self.config.branch]
             )
         self.repo.heads[self.config.branch].set_tracking_branch(
             self.repo.remote().refs[self.config.branch]
@@ -195,19 +199,14 @@ class GitHubSyncEngine:
 
     def _setup_logging(self) -> None:
         """Configure logging for the sync engine."""
-        handler = logging.FileHandler(
-            self.config.log_path / "sync_engine.log"
-        )
+        handler = logging.FileHandler(self.config.log_path / "sync_engine.log")
         handler.setFormatter(
-            logging.Formatter(
-                '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
-            )
+            logging.Formatter("%(asctime)s - %(name)s - %(levelname)s - %(message)s")
         )
         logger.addHandler(handler)
         logger.setLevel(self.config.log_level)
 
     def __del__(self) -> None:
         """Cleanup resources on object destruction."""
-        if hasattr(self, 'file_watcher'):
+        if hasattr(self, "file_watcher"):
             self.file_watcher.stop_monitoring()
-
